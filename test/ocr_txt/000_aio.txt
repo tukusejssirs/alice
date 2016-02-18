@@ -1,0 +1,3670 @@
+Lewis Carroll: V krajme zázrakov
+
+NA MEDZINÁRODNÉJ VYSTAVE KNIŽNÉHO UMENIA v LIPSKU ROKU 1982 ODMENILI TÚTO KNIHU STRIEBORNOU MEDAILOU.
+
+ILUSTRÁCIE DUŠANA KÁLLAYA ZÍSKALI GRAND PRIX NA BIENÁLE ILUSTRÁCIÍ BRATISLAVA 1983
+
+Translation © Jurnj Vojtek, Viera Vojtková 1981
+Illustrations © Dušan Kállay 1981
+
+Zakaždým, keď je pretrhnutá nitka
+a fantázia na dne vysychá,
+ako ten v púšti volám: „Ďalej zajtra!“
+a ako on už temer nedýcham,
+no „Dnes je zajtra!“ veselo mi zvonia
+okovy, ktoré rád si ponechám.
+
+Tak pučala a rástla, zvoľna zrela
+rozprávka, ktorá vám tu ponúkam;
+po kúsku, ako pavúk pavučinu
+snoval som s nimi tento nežný klam.
+Až keď si slnko sadlo na obzor,
+smel som sa vesiel chytiť v tichu sám.
+
+Alica! Tebe príbeh do rúk vkladám.
+Čo s ním, to Ty už iste dobre vieš:
+z kvetov, čo popri našom člne kvitli,
+do pamäti si veniec uviješ;
+suchý raz bude sladko voňať diaľkou
+a pamäť nad ním zaznie ako spiež…
+
+Zrkadlo vôd je nečujné a hladké
+a popoludnie ako zo zlata.
+Priútle paže s veslami sa trápia,
+nuž, neveľká je za to odplata.
+Všetky tri sa však celkom vážne tvária,
+že samy vedú naš čln do blata.
+
+Trojica mojich krutých spoločníčok!
+V objatí tejto snivej hodiny
+rozprávku chcieť o najjemnejšom vánku,
+čo neodfúkne pierko z periny…!
+No zmôže čosi proti vášmu triu
+žalostne slabý hlas môj jediný?
+
+Prima na čele velí: „Rozprávajte,“
+priam panovačne žiada začiatok;
+Secunda čaká (jemne, ticho prosí)
+čo najviac nezmyslov a mačiatok;
+Tertia každé moje odmlčanie
+vyplní prudkou paľbou otázok.
+
+Napokon zmĺknu. Mĺkvo sprevádzajú
+do bájnych krajín plných zázrakov
+to dieťa mojich predstáv, čo sa stretá
+so spoločnosťou zvierat storakou,
+s kvetmi i vtákmi… Dobre vedia: rojčí,
+a predsa vieru čítam zo zrakov.
+
+
+% first chapter
+\section{\addfontfeature{Letters=SmallCaps}Do nory za králikom}
+Alicu už omrzelo sedieť so sestrou len tak nečinne na brehu rieky. Niekoľko ráz nazrela do sestrinej knihy, ale neboli v nej ani obrázky, ani sa tam nič nerozprávalo; „a čo s knihou, keď tam nie sú obrázky, ani sa tam nič nerozpráva,“ pomyslela si Alica.
+
+A tak uvažovala (pokiaľ sa to vôbec dalo, lebo od horúčavy bola ospanlivá a celkom otupená), či by stálo za to vstať, natrhať margaréty a uviť z nich veniec, keď tu zrazu prebehol popri nej biely králik s červenými očami.
+
+Na tom ešte nebolo nič zvláštne a nezdalo sa jej nezvyčajné, ani keď začula, ako si králik vzdychol: „Ach, jaj! Ach, jaj! Už prídem neskoro!“ (Keď o tom neskoršie premýšľala, uvedomila si, že nad tým sa mala pozastaviť, no vtedy sa jej to videlo celkom prirodzené.) Ale keď si králik napokon vybral z vrecka na veste hodinky, pozrel na ne a hneď bežal ďalej, Alica vyskočila; až v tej chvíli jej blýslo umom, že vlastne ešte nikdy nevidela králika s vreckom na veste, navyše aby si z vrecka vyberal hodinky. Rozpalená od zvedavosti rozbehla sa cez pole za ním, no zazrela už len to, ako sa šuchol do veľkej králičej nory pod kríkom.
+
+V mihu sa spustila za ním a ani len nepomyslela na to, ako sa stade dostane zasa von.
+
+Králičia nora bola na kúsku rovná ako tunel, no odrazu sa začala prudko zvažovať, tak prudko, že sa Alica nestihla ani zastaviť, a už padala do akejsi hlbokej jamy.
+
+Alebo bola tá jama veľmi hlboká, alebo padala veľmi pomaly, no Alica mala dosť času obzerať sa okolo seba a rozmýšľať, čo bude ďalej. Najsamprv sa pokúšala pozerať dolu a zistiť, kam to vlastne padá, ale nič nevidela, tak tam bolo tma. Nuž si obzerala steny jamy a videla na nich veľa kuchynských políc a priečinkov na knihy. Tu a tam viseli na klincoch mapy a obrazy. Ako padala, vzala z jednej police zaváraninovú fľašu s nálepkou POMARANČOVÁ MARMELÁDA; no sklamala sa, fľaša bola prázdna. Bála sa odhodiť ju, aby dolu niekoho nezabila, tak ju zasa šikovne vopchala do police, popri ktorej letela.
+
+„Teda,“ pomyslela si Alica, „po takomto páde zletieť zo schodov bude už pre mňa úplná hračka! A zá akú hrdinku ma budú doma považovať! Čože, teraz keby som aj zo strechy spadla, ani by som nemukla!“ (To pravdepodobne naozaj nie.)
+
+A stále dolu a dolu a dolu! Vari to padanie nemá konca? „Ktovie, koľko kilometrov som sa už prepadla?“ povedala nahlas. „Už budem hádam až dakde pri strede zemegule. Počkať — to by bolo, ak sa nemýlim, asi šesťtisíc päťsto kilometrov do hĺbky.“ (Ako vidíte, Alica sa už v škole voľačo naučila, a hoci teraz nebola práve najvhodnejšia príležitosť popýšiť sa vedomosťami, lebo ju nikto nepočul, opakovanie nikomu nezaškodí.) „Áno, asi toľko to bude – a zaujímalo by ma, na akej zemepisnej šírke a dĺžke sa nachádzam…“ (Alica nemala ani potuchy o zemepisnej
+šírke a zemepisnej dĺžke, ale čo, keď sú to také nádherné slová.)
+
+A znova začala: „Čo ak sa prepadnem cez celú zemeguľu! To bude paráda, keď vyleziem medzi ľuďmi, ktorí chodia dolu hlavou! Ako sa len volajú – tuším protichodci.“ (Teraz bola celkom rada, že ju nik nepočuje, lebo to slovo sa ani jej nepozdávalo.) „No musím sa ich opýtať, ako sa tá ich krajina volá. Prosím vás, pani, je toto Nový Zéland, či Austrália?“ (Pri tých slovách sa pokúšala ukloniť — predstavte si, klaňať sa, keď človek padá! Myslíte, že by sa vám to podarilo?) „Nie, ešte by si tá pani pomyslela, čo som to za nevzdelané dievča! Nie, pýtať sa nebudem, možno to uvidím dakde napísané.“
+
+A stále dolu a dolu a dolu. Nič iné sa nedalo robiť, tak Alica znova začala vykladať: „Tine budem dnes večer iste veľmi chýbať!“ (Tina bola mačka.) „Dúfam, že jej na olovrant nezabudnú naliať do misky mlieka. Tinuška moja! Keby si tu tak bola pri mne! Vo vzduchu asi nijaké myši nie sú, ale možno by si si tu chytila netopiera a ten vyzerá skoro ako myš. Len ktovie, či mačky žerú netopiere?“ A vtom padli na Alicu driemoty a ona si ospanlivo opakovala: „Žerú mačky netopiere? Žerú mačky netopiere?“ A potom zasa: „Žerú netopiere mačky?“ Pretože — chápete — ak si ani na jednu otázku nevedela odpovedať, bolo úplne jedno, či sa pýta tak, alebo onak. Spánok ju premáhal a práve sa jej
+začalo snívať, že sa s Tinou vedú za ruky a ona jej veľmi vážne hovorí: „Počuj, Tina, povedz mi pravdu: jedla si už
+netopiera?“ — keď tu zrazu bum-bác! dopadla na kopu suchého lístia a raždia a bolo po páde.
+
+Alica sa ani trošku neudrela a vo chvíli bola už zasa na nohách. Pozrela hore, ale tam bola iba tma tmúca; pred sebou mala ďalšiu dlhú chodbu a v nej zazrela uháňajúceho Bieleho králika. Nesmela stratiť ani minútu, letela za ním ako vietor, a keď zahýbal za roh, počula, ako zahundral: „Sto uší a tristo fúzov, ale je už neskoro!“ Ešte keď zahýbala za roh, bola mu za pätami, no odrazu sa stratil. Ocitla sa v dlhej nízkej sieni, osvetlenej radom lámp visiacich zo stropu.
+
+V sieni boli dookola samé dvere, no všetky zamknuté. Alica prešla sieňou po jednej strane, potom nazad po druhej a rad-radom všetky vyskúšala. Nakoniec smutne kráčala prostriedkom a rozmýšľala, ako sa dostať von.
+
+A vtom sa ocitla pred malým trojnohým stolíkom; celý bol z hrubého skla. Bol na ňom iba zlatý kľúčik a Alici hneď blyslo umom, či nie je od niektorých dverí v sieni. Ale kdeže! Alebo boli zámky priveľké, alebo kľúčik primalý, ani
+jedny dvere sa nedali odomknúť. No keď sieň obchádzala po druhý raz, zbadala nízko nad zemou záves, ktorý si predtým nevšimla, a za ním boli dvierka vysoké ani nie pol metra. Skúsila zlatý kľúčik, a sláva — kľúčik vkĺzol do zámky!
+
+Alica odomkla dvierka a zistila, že vedú do chodbičky len o niečo širšej než potkania diera. Kľakla si a na druhom konci chodbičky videla čarokrásnu záhradu. Zatúžila dostať sa z tmavej siene a prechádzať sa medzi záhonmi žiarivých kvetov a chladivými fontánami, ale cez dvierka by neprestrčila ani hlavu. „A keby som hlavou aj prešla,“ rozmýšľala chudera Alica, „čo z toho, keď plecami neprejdem! Ach, keby som sa tak mohla poskladať ako sklápací ďalekohľad! Myslím, že by to aj šlo, len keby som vedela, ako začať.“ Lebo, ako ste si všimli, Alici sa v poslednom čase prihodilo toľko nezvyčajného, že sa jej už skoro všetko zdalo možné.
+
+Vyčkávať pri dvierkach očividne nemalo zmysel, nuž sa vrátila k stolíku, či tam azda nenájde nejaký iný kľúč alebo aspoň príručku s návodom, podľa ktorého by sa človek sklápal ako ďalekohľad. Tentoraz tam našla fľaštičku („Tá tu predtým zaručene nebola!“ povedala si Alica); na hrdle mala ceduľku a na ceduľke prekrásne vytlačené veľkými písmenami: VYPI MA!
+
+To sa ľahko povie, „Vypi ma“, ale múdra Alica hneď na všetko nenaletí. „Nie,“ povedala si, „najprv sa pozriem, či tam nie je označenie Pozor — jed! Neraz čítala príbehy o deťoch, ktoré zhoreli alebo ich zožrala divá zver, a vôbec sa im prihodilo veľa nepríjemnosti len preto, že nedbali na základné ponaučenia svojich najbližších, tak napríklad, že človek si popáli prsty, ak pridlho drží v ruke žeravý kutáč, alebo že mu prst začne krvácať, ak si doň zareže dosť hlboko. Alica nezabúdala ani na to, že ak sa človek napije z fľašky označenej Pozor — jed!, je takmer isté, že skôr či neskôr mu to nebude na osoh.
+
+Ale na tejto flaštičke nijakú výstrahu nenašla, tak sa odhodlala ochutnať, čo je v nej. Keď zistila, že je to veľmi dobré (malo to chuť ako čerešňový koláč, vaječný krém, ananás, pečený moriak, karamelky a maslové hrianky dokopy), raz-dva všetko vypila.
+
+„Akosi mi je čudne!“ povedala Alica. „Asi sa už sklápam ako ten ďalekohľad!“
+
+A naozaj: bola už iba dvadsaťpäť centimetrov vysoká a tvár sa jej rozžiarila, keď si pomyslela, že teraz má najlepšiu veľkosť na to, aby sa prepchala cez dvierka do tej utešenej záhrady. Pre istotu niekoľko minút počkala, či sa ešte väčšmi nescvrkne. Trochu ju to znepokojovalo, „lebo, chápete, čo ak pochodím ako sviečka, keď dohorí,“ pomyslela si Alica. „Ktovie, ako by som potom vyzerala?“ Skúšala si predstaviť, ako vyzerá plameň sviečky, keď sa sfúkne, ale nie a nie sa rozpamätať, či také niečo dakedy videla.
+
+Nič sa s ňou už nedialo, nuž sa o chvíľu rozhodla, že pôjde rovno do záhrady. Ale beda-prebeda! Pri dvierkach si chuderka uvedomila, že zlatý kľúčik zabudla na stolíku, a keď sa poň vrátila, zistila, že teraz ho už nedočiahne. Cez sklo ho videla celkom zreteľne a zúfalo sa šplhala po jednej stolovej nohe, ale tá bola veľmi klzká. Nakoniec si, chúďa, celkom vyčerpaná sadla na zem a rozplakala sa.
+
+„Tak už dosť, plačom si nepomôžeš,“ oborila sa Alica na seba. „Radím ti, aby si s tým hneď a zaraz prestala!“ Alica si zväčša dávala veľmi dobré rady (no iba zriedka sa podľa nich aj správala) a niekedy sa vyhrešila tak prísne, až jej slzy vyhŕkli. Raz sa dokonca skoro vyzauškovala za švindľovanie pri krokete, keď hrala sama so sebou. Toto zvláštne dieťa si totiž veľmi rado predstavovalo, že je v dvoch osobách. „V dvoch osobách…“ pomyslela si nešťastná Alica, „teraz to už nemá zmysel! Veď zo mňa neostalo ani na jednu poriadnu osobu!“
+
+Vtom zazrela pod stolom sklenú škatuľku, otvorila ju a našla v nej koláčik a na ňom krásny nápis z hrozienok: ZJEDZ MA! „Aj ho zjem,“ povedala Alica, „a ak od neho narastiem, dočiahnem kľúčik; a ak sa ešte scvrknem, podleziem popod dvere; nedbám, čo sa so mnou stane, lebo do záhrady sa tak či onak nejako dostanem!“
+
+Odhryzla si z koláča a s úzkosťou si vravela: „Tak ako? Hore, či dolu?“ Ruku si položila na vrch hlavy, aby zistila, či rastie, alebo sa zmenšuje, a veľmi ju prekvapilo, že sa vôbec nemení. Isteže, tak to býva, keď človek zje koláč; no Alica si už tak zvykla na samé nevídané a neslýchané veci, že obyčajnýýživotsajej videl nudnýa hlúpy;
+
+Pustila sa teda do koláča a čoskoro bolo po ňom.
+
+% second chapter
+\section{\addfontfeature{Letters=SmallCaps}Mláka sĺz}
+
+DIV najdivovejší! Div najdivovejší!“ zhíkla Alica.
+(Od prekvapenia zabudla aj správne hovoriť.)
+„Veď ja sa naťahujem ako ten najdlhší ďalekohľad na svete.
+Zbohom, nožičky moje!“ (Lebo keď si pozrela na nohy,
+zdalo sa jej, že ich už- už stratí z dohľadu, tak veľmi sa
+vzďaľovali.) „Ach, moje úbohé nožičky, kto vás teraz obuje
+a kto na vás natiahne pančuchy? Ja to už asi nedokážem!
+Budem trocha priďaleko na to, aby som sa mohla o vás
+starať. Musíte si poradiť, ako samy najlepšie viete.“ „Ale
+musím byť k nim dobrá,“ pomyslela si Alica, „ešte si zmyslia
+chodiť inou cestou, ako ja budem chcieť! Uvidíme. Na každé
+Vianoce im darujem nový pár topánok.“
+
+A už vymýšľala, ako to zariadi. „Budem ich musieť poslať
+poštou,“ vravela si, „to bude psina, posielať dary vlastným
+nohám! A ako čudne bude vyzerať ad_re_sa_!__
+
+?)
+
+Vážená
+Pravá noha Alicina
+ROHOŽKA pred Kozubom
+PRI OCHRANNEJ MRIEŽKE
+(S pozdravom Alica)
+
+Prepánajána, čo to táram!“
+
+V tej chvíli narazila hlavou do povaly: mala vám teraz vyše
+dva aj trištvrte metra; hneď vzala zlatý kľúčik a hybaj do
+záhrady.
+
+Chúďa Alica! Mohla si nanajvýš ľahnúť na bok a jedným
+okom do nej hľadieť, no dostať sa dnu bolo ešte beznádej-
+nejšie ako predtým. Sadla si a znova sa rozplakala.
+
+„Hanbi sa,“ povedala si Alica, „také veľké dievča,“ (to
+
+18
+
+Mláka sĺz
+
+teda bola) „a takto revať ! Vravím ti, prestaň!“ Ale plakala
+ďalej a vyronila za celé vedrá sĺz, takže naplakala okolo seba
+velikánsku, zo desať centimetrov hlbokú mláku, čo sa
+rozlievala do polovice siene.
+
+Po chvíli začula v diaľke drobné cupkavé krôčky; rýchlo si
+poutierala oči a pozrela, kto to ide. Vracal sa Biely králik,
+parádne vyobliekaný, v jednej ruke biele rukavice z pravej
+kozinky, v druhej veľký vejár. Náhlivo drobčil popri nej
+a šomral si popod nos: „Ach, tá Vojvodkyňa! Ach, tá
+Vojvodkyňa! Tá bude zúriť, že idem tak neskoro!“ Alica
+bola už_taká zúfalá, že by bola požiadala o pomoc hociko-
+ho; a tak keď sa k nej Králik priblížil, ozvala sa tichým,
+bojazlivým hláskom: „Boli by ste taký láskavý, pane…“
+Králik sa strhol, biele rukavice i vejár mu vypadli z rúk
+a odtrielil do tmy tak rýchlo, ako len vládal.
+
+Alica zodvihla vejár a rukavice, a pretože v sieni bolo
+veľmi teplo, začala sa ovievať. „Bože, bože!“ vzdychla si.
+„Aké je dnes všetko čudné! A ešte včera to bolo ako
+inokedy. Vari som sa v noci nejako zmenila? Porozmýšľaj-
+me: Keď som dnes ráno vstávala, bola som tá istá ako včera?
+Veru sa mi zdá, že som sa cítila akosi inakšie. Ale ak už nie
+som tá čo včera, otázka je: Kto vlastne som? To je tá
+záhada!“ A prebrala rad-radom všetky rovesníčky, či sa
+nebodaj nepremenila na niektorú z nich.
+
+„Určite nie som Ada,“ povedala, „lebo tá má dlhé
+kučeravé vlasy, a moje sú rovné; nemôžem byť ani Mabel,
+lebo ja viem toľko vecí, a ona, ach, ona nevie skoro nič!
+A konečne, ona je ona_a_j a som ja, ach, môj ty svete, aké je to
+všetko pomotané! Zistím, či ešte viem všetko, čo som
+vedela. Povedzme: štyrikrát päť je dvanásť a štyrikrát šesť je
+trinásť a štyrikrát sedem je — ach, jaj, takto sa po dvadsiatku
+nikdy nedostanem! Ale násobilka nie je taká dôležitá,
+skúsim to so zemepisom. Londýn je hlavné mesto Paríža,
+Paríž je hlavné mesto Ríma a Rím — nie, tak to nie je, určite
+nie. Asi som sa predsa len zmenila na Mabel. Ešte skúsim
+nejakú básničku, povedzme Hľaďte na tie čudné zvyky…
+
+19
+
+Alica v krajine zázrakov
+
+Zložila si ruky, ako keď ju vyvolali v škole, a začala
+recitovať. Ale hlas mala chrapľavý a cudzí, ba ani slová
+nezneli tak ako inokedy:
+
+Hl'aďte na tie čudné zvyky:
+karty mastia i paniky!
+Sedia v klietke do polnoci,
+hrajú, hrajú, niet pomoci.
+
+Sem sa, ľudia, pomáhajte,
+karty z zoo odnášajte!
+
+Na čo mladé, len sa smialo,
+a čo staré, zutekala.
+
+„Nie, to nie je dobre,“ povedala nešťastná Alica a oči sa
+jej znova zaliali slzami: „Už je to tak, určite som Mabel
+a teraz sa musím odsťahovať do toho ich tesného domca
+a rozlúčiť sa so všetkými hračkami, a toho učenia, no hrôza!
+Nie, už to mám: Ak som Mabel, tak radšej ostanem tu!
+Môžu sem pchať hlavy a vyvolávať: ,Poď von, dušička!“ Iba
+zodvihnem hlavu a poviem: ,Tak kto som? Najprv mi to
+povedzte, a ak sa mi bude chcieť byť tým človekom, vyjdem;
+ak nie, zostanem tu, kým sa nestanem niekým iným.“ Ale
+- jój!“ rozplakala sa Alica a slzy jej vyhŕkli prúdom. „Len
+keby sem dakto vopchal hlavu! Táto samota ma už celkom
+umorila!“
+
+Ako to povedala, pozrela si na ruky a prekvapene zistila,
+že si medzi rečou natiahla na ruku Králikovu malú rukavičku
+z kozinky. „Ako je to možné?“ rozmýšľala. „Iste sa zasa
+zmenšujem.“ Vstala a podišla k stolíku, „aby sa k nemu
+primerala, a len tak od oka odhadla, že už má znova len asi
+sedemdesiat centimetrov a očividne sa zmenšuje ď alej.
+Prišla na to, že je to od vejára, ktorý ešte stále držala v ruke.
+Rýchlo ho odhodila, a bol veru najvyšší čas, inak by sa bola
+v tej chvíli scvrkla načisto.
+
+„Ale veľa mi už nechýbalo,“ povedala si Alica, poriadne
+
+20
+
+Alica v krajine zázrakov
+
+vystrašená tou náhlou zmenou a zároveň šťastná, že ešte
+stále jestvuje. „A teraz do záhrady!“ A rozbehla sa
+k dvierkam, no beda-prebeda! Dvierka boli znova zavreté
+a zlatý kľúčik ležal na sklenom stole ako predtým.
+
+„Čím dalej horšie,“ pomyslela si chuderka, „lebo ešte
+nikdy som nebola taká malá ako teraz. Nikdy! A to je zle,
+veľmi zle!“
+
+Ako to povedala, nohy sa jej pošmykli a čľup! — bola až
+po bradu v slanej vode. V prvej chvíli si pomyslela, že padla
+hádam do mora. „Tak, sa teda vrátim domov vlakom,“
+povedala si. Bola totiž pri mori iba jeden jediný raz a celkom
+vážne si myslela, že nech sa človek ocitne kdekoľvek na
+anglickom pobreží, nájde tam množstvo kabín, deti, ktoré sa
+hrajú v piesku s drevenými lopatkami, potom rad penziónov
+a za nimi železničnú stanicuĺ Ale čoskoro prišla na to, že je
+v kaluží sĺz, ktoré vyplakala, keď mala dva a trištvrte
+metra.
+
+„Nemala som toľko plakať,“ vyčítala si Alica, ako plávala
+a usilovala sa dostať z kaluže. „Za trest sa teraz utopím vo
+vlastných slzách! To je teda čudné, len čo je pravda! Ale
+dnes je všetko čudné!“
+
+A tu nedaleko nej v mláke čosi začl'apotalo. Plávala ta
+pozrieť, čo to je. Sprvu to vyzeralo ako nosorožec alebo
+hroch, ale potom si uvedomila, aká je teraz malá, a zistila,
+že je to iba myš, ktorá sa pošmykla takisto ako ona.
+
+„Čo keby som sa jej prihovorila?“ rozmýšľala Alica. „Tu
+je všetko také nezvyčajné, ktovie, možno tá myš aj rozpráva.
+Tak či onak, nič sa nestane, keď to skúsim.“ A tak spustila:
+„ó, Myš, ako by som sa dostala z tejto mláky? Už sOm od
+plávania celá zmorená. ó, Myš!“ (Alica si myslela, že
+s myšou sa treba takto rozprávať. Nikdy sa ešte s nijakou
+nezhovárala, ale spomenula si, že v bratovej latinskej
+gramatike videla napísané: „myš — od myši —- k myši —- myš
+- ó, myš!“) Myš si ju skúmavo premerala, ba Alici sa
+zazdalo, že jedným okom aj zažmurkala, no nepovedala
+mc.
+
+22
+
+Mláka sĺz
+
+„Možno nerozumie po anglicky,“ pomyslela si Alica.
+„Bude to podistým francúzska myš, ktorá k nám prišla
+s Viliamom Dobyvateľom.“ (Aj keď z dejepisu všeličo
+vedela, nemala ani potuchy o tom, že tento vojvodca prišiel
+do Anglicka v jedenástom storočí.) A tak začala inakšie:
+„Oů est ma chatte?“ prvou vetou zo svojej učebnice
+francúzštiny. V tej chvíli vyskočila Myš z vody a ani čo by sa
+celá triasla od strachu. „Ach, prepáč mi,“ vyhŕkla Alica
+vyľakaná, že sa dotkla citov úbohého zvieratka. „Celkom
+som zabudla, že ty nemáš rada mačky.“
+
+„Že nemám rada mačky!“ prenikavým a zlostným hlasom
+zapišťala Myš. „Ty by si ich na mojom mieste mala rada?“
+
+„Asi nie,“ tíšila ju Alica. „A už sa nehnevaj. No aj tak by
+som ti rada ukázala našu mačku Tinu. Myslím, že by si si
+mačky obľúbila, keby si ju čo len raz videla. Je to také milé,
+tiché zvieratko,“ pokračovala Alica viac-menej pre seba
+a pomaličky plávala v mláke. „Sedáva pri kozube, pekne
+pradie, olizuje si labky a umýva si tváričku… a má taký
+mäkučký kožuštek, čo sa dobre hladká. .. a v chytaní myší
+nemá páru. .. Ach, prepáč!“ znova vykríkla Alica, lebo Myš
+sa už celá zježila a Alica si uvedomila, že ju iste hlboko
+
+urazila. „Ak ti je to nepríjemné, nebudeme už o nej _ i '
+
+hovoriť.“
+
+„Ako to: nebudeme!“ skríkla Myš a triasla sa od hlavy až
+po konček chvosta. „Akoby som sa o tom chcela rozprávať
+práve ja! Naša rodina mačky odjakživa nenávidela. Tie
+odporné, prízemné, vulgárne živočíchy! Nechcem už o nich
+ani počuť!“
+
+„V poriadku!“ súhlasila Alica a chytro zvrtla reč na iné.
+„Máš rada… máš rada psov?“ Myš neodpovedala, a tak
+Alica náhlivo pokračovala: „Blízko nás majú pekného
+psíka, toho by som ti chcela ukázať. Vieš, je to foxteriér
+s takými bystrýrni očkami a s hnedou dlhou a brčkavou
+srsťou! Keď mu hodíš nejakú vec, on ti ju prinesie nazad, vie
+si vyprosiť jedlo a vie veľa všelijakých kúskov - ani na
+polovicu si teraz nespomeniem — patrí jednému gazdovi
+
+23
+
+ 
+
+ 
+
+Alica v krajine zázrakov
+
+a ten vraví, že je taký užitočný, že by ho nedal ani za sto
+libier! Doteraz mu vraj neušiel ani jeden potkan a — ach,
+prepánajána!“ skríkla Alica ľútostivo. „Tuším som ju zase
+urazila!“ Myš od nej plávala preč tak rýchlo, ako len vládala,
+takže rozvírila celú mláku.
+
+Alica za ňou vľúdne zavolala: „Milá Myška! Vráť sa,
+prosím ťa, a už sa nebudeme zhovárať ani o mačkách, ani
+o psoch, keď ich nemáš rada.“
+
+Keď to Myš počula, obrátila sa a pomaly plávala nazad.
+Tvár mala celkom bielu („To od zlosti,“ pomyslela si Alica)
+a tichým, trasúcim sa hlasom povedala: „Poďme na breh,
+tam ti porozprávam svoj príbeh, aby si pochopila, prečo
+nenávidím mačky a psov.“
+
+Bol najvyšší čas, lebo mláka sa už hemžila vtákmi
+a zvieratami, ktoré do nej popadali. Bola tam Kačica
+a Ohnivák Dodo, papagáj Lory a Orlík a iné čudesné
+stvorenia. Alica plávala na čele a celá perepúť mierila
+k brehu.
+
+% third chapter
+\section{\addfontfeature{Letters=SmallCaps}Ablegačné preteky]
+a príbeh s dlhočizným koncom
+
+2 IŠLA sa tam na brehu naozaj čudná spoločnosť
+
+— vtáci s mokrým, špinavým perím, zvieratá
+so zablatenou srsťou, a všetci premoknutí, podráždení
+a mrzutí.
+
+Ich prvou starosťou bolo, prirodzene, ako sa usušiť: ra-
+dili sa a o chvíľku sa už Alica s nimi zhovárala nenútene
+a kamarátsky, akoby ich poznala od narodenia. S papagá—
+jom Lorym sa dohadovala tak dlho, kým jej namrzene
+neodsekol: „Som starší ako ty, tak to musím vedieť lepšie.“
+Alica mu to nechcela uznať. Chcela vedieť, koľko má Lory
+rokov. No papagáj tvrdohlavo odmietal prezradiť jej svoj
+vek. A tak sa nedalo nič robiť.
+
+Napokon Myš, ktorá sa podľa všetkého tešila všeobecnej
+vážnosti, zvolala: „Sadnite si a počúvajte, čo vám poviem!
+Ja vás raz—dva usuším!“ Všetci si hneď posadali do veľkého
+kruhu. Myš ostala v strede. Alica hľadela na ňu s obavou,
+lebo si uvedomovala, že ak chytro neuschne, poriadne
+prechladne.
+
+„Hm, hm!“ odkašlala si Myš významne. „Dávate všetci
+pozor? Toto je najsuchšia vec, akú poznám. Ticho, prosím!
+Angličanov, ktorým chýbali vodcovia a v poslednom čase
+iba lúpežili a zbíjali. Edwin a Morcar, grófovia z Mercie
+a Northumbrie —“
+
+„Bŕŕŕ!“ otriasol sa Lory.
+
+„Prosím?“ spýtala sa Myš zamračene, ale zdvorilo.
+„Povedal si niečo?“
+
+„Ja? Ale nie!“ chytro odpovedal Lory.
+
+„Zdalo sa mi, že hej,“ na to Myš. „Tak pokračujem.
+
+25
+
+Alica v krajine zázrakov
+
+Edwin a Morcar, grófovia z Mercie a Northumbrie, sa pridali
+k nemu, a dokonca Stigand, vlastenecký arcibiskup canter-
+burský, si v tom našiel dôvod —“
+
+„Našiel si? Kde?“ spýtala sa Kačica.
+
+„No predsa v tom,“ odpovedala Myš namrzene, „vari
+nevieš, kde si možno nájsť?“
+
+„Viem to veľmi dobre,“ odpovedala Kačica. „Keď ja
+hľadám žaby alebo červíky, viem, kde si ich nájdem. Otázka
+je, kde si ich našiel ten váš arcibiskup?“
+
+Myš si otázku ani nevšimla a náhlivo pokračovala:
+„— našiel si v tom dôvod, aby sa vybral s Edgarom Athe-
+lingom Viliamovi v ústrety a ponúkol mu korunu. Viliam sa
+spočiatku správal mierumilovne. No bezočivosť jeho Nor-
+manov — ako sa cítiš, moja milá?“ obrátila sa zrazu k Alici.
+
+„Taká mokrá ako predtým,“ smutno odpovedala Alica.
+„Tie tvoje reči ma akosi nesušia.“
+
+„V tom prípade,“ vyhlásil Dodo slávnostne a vstal,
+„navrhujem odložiť schôdzku za účelom neodkladného
+akceptovania účinnejších procedúr.“
+
+„Hovor zrozumiteľne!“ povedal Orlík. „Ani polovici tých
+dlhočizných slov nerozumiem a neverím, že im rozumieš ty
+sám!“ A Orlík sklonil hlavu, aby skryl úsmev. Ale podaktorí
+vtáci sa celkom nahlas zachichotali.
+
+„Chcel som povedať iba toľko,“ bránil sa Dodo urazene,
+„že najrýchlejšie sa usušíme, ak usporiadame ablegačné
+preteky.“
+
+„A to je zas čo, tie ablegačné preteky?“ spýtala sa Alica;
+nie že by až tak veľmi túžila dozvedieť sa to, ale Dodo sa
+odmlčal, akoby čakal, že niekto niečo povie. Nikomu sa
+však akosi nechcelo.
+
+„No,“ povedal Dodo, „najnázornejšie si to vysvetlíme,
+ak tie preteky usporiadame.“ (Ak by ste si to niekedy aj
+vy skúsili, porozprávam vám, ako to Dodo zorganizoval.)
+
+Najsamprv vyznačil na zemi pretekársku dráhu, bol to
+približne kruh („Na presnom tvare nezáleží,“ povedal)
+a potom všetku tú perepúť rozostavil dookola na pretekár-
+
+26
+
+ 
+
+Alica v krajine zázrakov
+
+sku dráhu. Nijaké „Pripraviť sa! Pozor! Už!“, každý si
+vybehol, kedy chcel, i dobehol, kedy chcel, takže sa ťažko
+dalo povedať; kedy sa vlastne preteky skončili. No keď už
+behali asi pol druha hodiny a všetci boli suchí, DOdo zrazu
+zmal: „Koniec pretekov!“ a všetci ho obStaĺi ä Zadychčane
+sa vypytovali: „Kto vyhral?“
+
+Kým im Dodo odpovedal, hlboko sa zamyslel a hodnú
+chvíľu stál s prstom pritlačeným na čelo (asi tak ako na
+obrázkoch Shakespeare) a ostatní ticho čakali. Konečne
+Dodo vyhlásil: „Vyhrali všetci a každý dostane cenu.“
+
+„Ale kto tie ceny odovzdá?“ ozvali sa zborove.
+
+„Akože kto? No predsa ona,“ povedal Dodo a prstom
+ukázal na Alicu. Všetci ju obstali a jeden cez druhého
+vykrikovali: „Ceny! Ceny!“
+
+Alica raz nevedela, čo robiť; v bezradnosti siahla do
+vrecka, vytiahla škatuľku ovocných cukríkov (slaná voda ju
+našťastie nepremočila) a rad-radom ich rozdávala ako ceny.
+Každému sa ušiel jeden.
+
+„Ale aj jej musíme dať cenu, nie?“ povedala Myš.
+
+„Samozrejme,“ odpovedal Dodo smrteľne vážne. „Čo
+máš ešte vo vrecku?“ obrátil sa na Alicu.
+
+„Už iba náprstok,“ povedala Alica smutne.
+
+„Sem s ním!“ na to Dodo.
+
+Znova sa zhrčili okolo nej a Dodo jej sláVDostne odo—
+vzdal náprstok so slovami: „Ráč prijať tento elegantný
+náprstok.“ A keď ten krátky prejav dopovedal, všetci
+skríklj sláva.
+
+Alici sa celá záležitosť videla nezmyselná, ale všetci okolo
+nej boli takí vážni, že si netrúfala zasmiať sa. Nič vhodné jej
+neprišlo na um, tak sa iba uklonila a celkom vážne náprstok
+prevzala.
+
+Potom prišli na rad cukríky. Nezaobišlo sa to bez kriku
+a zmätku. Veľkí vtáci sa sťažovali, že sú malé a že ich nestihli
+ani ochutnať, malí sa zasa dusili a museli im búchať po
+chrbte. Ked bolo po cukríkoch, znova si posadali do kruhu
+a prosili Myš, aby im ešte niečo rozprávala.
+
+28
+
+Ablegačné preteky a príbeh s dlhočizným koncom
+
+„Sľúbila si mi, že porozprávaš niečo zo svojho života,“
+povedala Alica, „a prečo nemáš rada M a P,“ dodala
+pošepky, lebo sa bála, že ju zasa urazí.
+
+„Je to príbeh o myši s dlhočizným a smutným koncom,“
+povedala Myš Alici a vzdychla si.
+
+Alica nepočula dobre, čo to Myš vraví, a začudovane sa
+zahľadela na jej chvost. „Naozaj je dlhočizný,“ pripustila,
+„ale prečo vravíš, že je smutný?“ A rozmýšľala nad tým po
+celý čas, čo Myš rozprávala, takže sa jej príbeh začal meniť
+pred očami na takýto zvlnený chvost:
+
+ 
+
+Zlostný pes
+stretol myš.
+Riekol jej:
+„Len sa smej,
+ešte dnes
+dopištíš.
+Na súd bež,
+čosi zvieš.
+H ybaj už!
+Alenskús _ 'řl ,.
+zdvihnúť hlas! ĺ . \
+Dnes mám čas, " '
+
+. / ;
+nuž ti tam \ ' ' -
+osud sám
+prichystám. “
+Riekla myš
+
+psisku zas:
+„Nemám chuť
+na ten špás.
+O ten súd
+málo dbám;
+mrha'š čas!“
+„Ja ti dám! “
+n'ekol pes
+Zúrivec.
+„ Súdim sám!
+Ešte dnes
+celú vec
+právo mám
+rozhodnúť.
+Žiadny klam!
+Prisaha'm:
+Čakaj smrť!“ =
+
+   
+
+ 
+
+ 
+
+ 
+
+Alica v krajine zázrakov
+
+„Ved ty ma nepočúvaš!“ hrešila Myš Alicu. „Na čo
+myslíš?“
+
+„Prepáč,“ povedala Alica skrúšene. „Ak sa nemýlim, máš
+už za sebou štyri zákruty.“
+
+„Tak krutý!“ ešte väčšmi sa nazlostila Myš.
+
+„Vravíš — krutý!?“ ustarostene sa obzerala okolo seba
+Alica. „Ach, veď povedz, nedovolím, aby ti ubližoval!“
+
+„O nič ťa neprosím!“ odsekla Myš, vstala a šla preč.
+„Urážaš ma tými nezmyselnými rečami!“
+
+„Ja som to tak nemyslela,“ bránila sa chudera Alica.
+„Prečo si taká urážlivá?“
+
+Myš namiesto odpovede len čosi zahundrala.
+
+„Prosím ťa, vráť sa a dorozprávaj nám to!“ volala za ňou
+Alica. A ostatní za ňou zborove: „Áno, áno, prosíme!“ Ale
+Myš iba zlostne pokrútila hlavou a pridala do kroku.
+
+„Škoda, že tu neostala!“ vzdychol si Lory, keď sa im
+stratila z očí. A stará Krabová to využila a povedala dcére:
+„Dieťa moje, nech ti je to poučením, že sa nikdy netreba dať
+vyviesť z rovnováhy.“ „Mlč, mama!“ odsekla jej mladá. „Ty
+by si dožrala ajýustricu.“
+
+„Keby som tu mala Tinu, veď by som si ja poradila,“
+povedala Alica nahlas, ale iba pre seba. „Tá by mi ju
+raz-dva dovliekla nazad.“
+
+„A kto je to Tina, ak sa smiem spýtať?“ zaujímal sa
+Lory.
+
+Alica odpovedala ochotne, lebo o svojom rniláčikovi vždy
+rada rozprávala: „Tina je naša mačka. Tá vám chytá myši,
+jedna radosť! A keby ste ju videli, ako striehne na vtákov!
+Len vám na vtáčka pozrie, a už je po ňom!“
+
+Tieto slová vyvolali medzi prítomnými hotový rozruch.
+Niektorí vtáci sa odrazu zodvihli a odišli. Jedna stará Straka
+sa dôkladne zababušila do vlniaka a utrúsila: „J a už musím
+ísť. Večerný vzduch mi škodí na hrdlo.“ A Kanán'k ro-
+zochveným hlasom zvolával deti: „Poďte, deťúrence moje!
+Už aby ste boli v posteli!“ Tak sa pod rozličnými zámien—
+kami jeden za druhým povytrácali a Alica ostala sama.
+
+30
+
+Ablegačné preteky & príbeh & dlhočizny'm koncom
+
+„Nemala som tú Tinu spomínať!“ povedala si smutne.
+„Tu dolu ju akosi nik nemá rád, hoci je to tá najlepšia mačka
+na svete. Ach, moja drahá Tina! Či ťa ja ešte dakedy
+uvidím!“ A v tej chvíli sa nešťastná Alica od veľkého žiaľu
+a clivoty znova rozplakala. Ale o chvíľku začula z diaľky
+cupkanie. Dychtivo zodvihla hlavu, či si to Myš predsa len
+nerozmyslela a nejde jej dopovedať svoj príbeh.
+
+% fourth chapter
+\section{\addfontfeature{Letters=SmallCaps}Ako Vilo vyletel z komína}
+
+AE to k nej pomaličky cupkal Biely králik a vystraše-
+ne sa obzeral, akoby niečo stratil. Počula, ako si
+šomre popod fúzy: „Tá Vojvodkyňa! Tá Vojvodkyňa! Ach,
+labôčky moje! Ach, kožuštek môj, fúziky moje! Tá ma dá
+iste popraviť, ako že dvakrát dva je štyri! Keby som len
+vedel, kde som ich pohodil!“ Alica hneď uhádla, že Králik
+hľadá vejár a biele kozinkové rukavice, tak ich bez dlhých
+rečí začala hľadať, ale nikde ich nevidela. Po tom kúpeli
+v kaluží akoby sa všetko zmenilo a veľká sieň so skleným
+stolíkom a dvierkami načisto zmizla.
+
+Králik si všimol, ako tam Alica pobehuje, a hned ju
+okríkol: „Prosím vás, Marianna, čo tu robíte?! Už aj bežte
+domov a doneste mi rukavice a vejár! Ale chytro!“ Alica sa
+tak zľakla, že v tej chvíli sa rozbehla, kde jej Králik ukázal,
+ani si len netrúfala vysvetliť mu, že je to nejaký omyl.
+
+„Očividne si ma zmýlil so svojou slúžkou,“ povedala si
+v behu.
+
+„Ten bude otvárať oči, keď zistí, kto som! Ale ten jeho
+vejár i s rukavicami mu už len donesiem — samozrejme, ak
+ich nájdem.“ Len čo to povedala, ocitla sa pred chutným
+domčekom. Na dverách sa blyšťala mosadzná tabuľka
+s vyrytým menom B. KRÁLIK. Vošla dnu bez zaklopania
+a vybehla hore schodmi, celá vystrašená, aby náhodou
+nestretla skutočnú Mariannu. Tá by ju iste vyhnala z domu
+skôr, ako nájde vejár a rukavice.
+
+„Aké je to čudné,“ vravela si Alica, „že robím poslíčka
+Králikovi! Najbližšie si urobí zo mňa poslíčka aj Tina!“
+Predstavovala si, ako by to asi vyzeralo: „Slečna Alica!
+Poďte sem chytro a Oblečte sa na prechádzku!“ „Hneď,
+
+32
+
+Ako Vilo vyletel z komína
+
+hneď, ňanka! No kým sa Tina vráti, musím dozrieť na túto
+myšaciu dieru, aby jej myš neušla.“ „Ibaže,“ uvažovala
+ďalej, „Tinu' by sme v dome asi dlho netrpeli, keby nám
+takto rozkazovala.
+
+Medzitým Alica vošla do útulnej izbičky; pri okne bol
+stolík a na ňom (ako dúfala) vejár a dva ci tri páry drob-
+ných bielych rukavíc z kozinkyŠ Vzala vejár i jedny rukavice
+a už chcela z izby odísť, keď tu zrazu pri zrkadle zbadala
+fľaštičku. Tentoraz nebol na nej lístok s nápisom VYPI MA!,
+no aj tak vytiahla zátku a priložila si fľaštičku k perám.
+„Vždy keď niečo zjem alebo vypijem,“ povedala si, „prihodí
+sa čosi zaujímavé. Uvidím, čo urobí táto fľaštička. Dúfam,
+že od nej zasa narastiem, lebo byť takýmto škvŕňaťom,
+toma už naozaj otravuje!“
+
+Tak sa aj stalo, a oveľa rýchlejšie, ako sa nazdala.
+Nevypila ešte ani pol fľaštičky, a už narazila hlavou do
+povaly a musela sa zohnúť, aby si nedolámala väzy. Chytro
+položila fľašku na zem a povedala si: „To stačí — dúfam, že
+viac už neporastiem — veď ani takto už neprejdem cez
+dvere — škoda, že som toho'tolko vypila!“
+
+Beda-prebeda! Neskoro ľutovala. Len rástla a rástla,
+čoskoro si musela klaknúť na zem, no O chvíľu už ani to
+nestačilo, skúsila si teda ľahnúť, lakťom sa oprieť 0 dvere
+a druhou rukou si podložiť hlavu. No ešte vždy rástla, a tak
+jej napokon. neostávalo nič iné, len jednu ruku vystrčiť von
+oknom a jednu nohu vopchať do komína. Potom si
+povedala: „A teraz nech sa už robí, čo chce, ja už viac
+nemôžem. Čo len so mnou bude?“
+
+Naštastie zázračná fľaštička práve prestala účinkovať
+a Alica už viacej nerástla. Bola tam však veľmi stiesnená.
+Vyzeralo to, že sa z tej izby tak ľahko nedostane, nuž
+nečudo, že bola nešťastná.
+
+„Doma mi bolo oveľa lepšie,“ pomyslela si nešťastná
+Alica, „tam sa človek každú chvíľu nezväčšoval a nezmen-
+šoval a nerozkazovali mu tam všelijaké myši a králiky.
+Hádam som nemala liezť do tej králičej nory — nuž ale —
+
+_ 33
+Ústredná blink!
+'dcgogicäae! ŕ-ffĺ'fi'ň;
+
+v &=&—zišiel a=.
+"c-lm'x-Sho "35
+
+ 
+
+Alica v krajine zázrakov
+
+nuž ale — takýto život je predsa len zaujímavý! Keby
+som vedela, čo sa to vlastne so mnou porobilo! Keď som si
+čítala rozprávky, myslela som si, že sa také veci nikdy
+nestávajú, a teraz som to zažila na vlastnej koži! Niekto by
+mal o mne napísať knihu, teda to by mal! Ked narastiem,
+napíšem ju sama - ale veď už som narástla,“ dodala
+zarmútene. „Aspoň v tejto izbe už d alej rásť nemôžem.“
+
+„Ale to znamená,“ rozmýšľala Alica, „že ani roky mi
+nebudú pribúdať! Keby zo mňa nikdy nebola starena, to by
+bolo ohromné. Ale zasa — večne sa len učiť! Och, to by
+sa mi nechcelo!“
+
+„Ty hlúpa Alica,“ odpovedala si. „Ako sa tu chceš učiť?
+Veď tu niet miesta ani pre teba, ako by sa sem zmestili
+učebnice?“
+
+A tak to šlo ďalej; najprv to zvážila z jednej strany,
+potom z druhej a dlho sa tak rozprávala sama so sebou. Ale
+o chvíľu začula zvonka nejaký hlas, nuž stíchla a počú—
+vala.
+
+„Marianna! Marianna!“ ozývalo sa vonku. „Hneď mi
+prineste rukavice!“ A potom niekto cupkal po schodoch.
+Alica vedela, že to ju hľadá Králik, a zachvela sa, až sa
+domček otriasol. Celkom zabudla, že teraz je najmenej
+tisíckrát väčšia ako Králik a nemá sa čoho báť.
+
+Králik podišiel k dverám a chcel ich otvoriť, ale keďže sa
+otvárali dnu a Alica sa opierala o ne lakťom, nepodarilo sa
+mu to. Alica počula, ako si Králik vraví: „Tak dom obídem
+a vojdem dnu oknom.“
+
+„A to teda nie!“ pomyslela si Alica, chvíľu počkala,
+a keď sa jej zdalo, že Králik je už pod oknom, rýchlo
+roztvorila dlaň a chmatla do prázdna. Nechytila nič, ale
+niekto zvrieskol a zvalil sa a zarinčalo sklo; usúdila, že
+Králik spadol do pareniska s uhorkami alebo do niečoho
+takého.
+
+Potom niekto zlostne skríkol — bol to Králik: „Pat! Pat!
+Kde si?“ A nato hlas, ktorý dosiaľ nepočula: „Ná de bych
+ból? Tot jablká kopem, Vaša Milost.“
+
+34
+
+Ako Vilo vyletel z komína
+
+„No prosím, on si kope jablká!“ hundral Králik. „Pod
+sem a pomôž mi stadeto!“
+
+(A znovu zarinčalo sklo.)
+
+„A teraz mi, Pat, povedz, čo je to tamto v okne?“
+
+„Ná co by to malo byt! Ruka, Vaša Milost.“
+
+' „Ruka, ty chumaj! Ktože kedy videl takú obrovskú
+ruku?! Veď jej je plné okno!“
+
+„Bár jéj je plné okno, aj tak je to ruka, Vaša Milost,“
+
+„Ruka tam nemá čo robiť. Už aj ju odprac!“
+
+Potom bolo ticho, iba občas počula Alica šepot ako:
+„Mne sa to, Vaša Milost, nepozdáva, éj, nijako sa mi to
+nepozdáva!“ „Rob, ako tí kážem, ty zbabelec!“ Znova
+roztvorila dlaň a po druhý raz chmatla do prázdna. Tento-
+raz zvrieskli dvaja a zasa zarinčalo sklo. „Koľko je tam tých
+parenísk s uhorkami!“ pomyslela si Alica. „Som zvedavá,
+čo urobia teraz! Keby ma tak chceli vytiahnuť z okna, nič
+iné si neželám. Lebo jedno je isté, že už mám tohto tu
+dosť!“
+
+Chvíľu čakala, ale nič už nepočula. Napokon prihrkotal
+nejaký vozrk a potom sa viacero hlasov navzájom prekriko—
+valo: „Kde je druhý rebrík? - Mal som priniesť iba jeden.
+Druhý má Vilo. Vilo! Podaj ho sem, chlapče! Tuto, o tento
+roh ich opri! — Nie, najprv ich zviaž — inak nedosiahnu ani
+do polovice. — Tak, teraz to už stačí. Len pokojne. — Hej,
+Vilo! Chyť ten povraz! — Len či ho strecha udrží! — Pozor
+na uvoľnenú škridlu — už letí! Pozor na hlavu!“ (niečo
+tresklo) — „Kto to urobil? — To iste Vilo. — Kto vlezie do
+komína? — Ja nie, chod si ty! — Ešte čo! — Nech ta ide
+Vilo. — Počuješ, Vilo? Pán vraví, že máš vliezť do komína
+ty!“
+
+„Tak teda Vi_lo polezie do komína,“ povedala si Alica.
+„Zdá sa, že všetko váľajú na toho Vila. Nechcela by som
+byť na jeho mieste, kozub je úzky, len čo je pravda. Ale
+trocha si hádam len kopnem!“
+
+Stiahla nohu z komína, ako sa len dalo, a čakala, kým
+nepočula, ako sa nejaké zvieratko (neuhádla, aké) tesne nad
+
+35
+
+ 
+
+Alica v krajine zázrakov
+
+ňou škriabe a driape v komíne. Povedala si: „To je asi ten
+Vilo,“ kopla z celej sily a čakala, čo sa bude. robiť.
+
+Najprv Zborove skríkli: „Vilo letí!“ Nato Králikov hlas:
+„Chyťte ho, vy tam pri plote!“ Potom ticho, a znova zmätok
+a krik: „Nadvihnite mu hlavu! — Trocha pálenky! — Nech
+sa nezadusí! — Čo to bolo, braček? Čo sa ti stalo?
+Rozprávaj !“
+
+Konečne niekto slabučko zapišťal. „To bude Vilo,“
+pomyslela si Alica. „Čo ja viem — už nie, ďakujem, už mi je
+lepšie - ešte som z toho priveľmi rozrušený — viem len
+toľko, že sa na mňa čosi vyrútilo ani čert zo škatule, a už
+som letel ako raketa.“
+
+„To si teda letel, braček,“ prikyvovali ostatní.
+
+„Dom treba podpáliť!“ ozval sa Králik. Alica zvolala
+z celej sily: „Ak to urobíte, pošlem na vás/Iinulĺ
+
+Nastalo hrobové ticho a Alica si pomyslela: „Ktovie, čo
+urobia teraz? Keby mali trocha rozumu, strhli by strechu.“
+Po minúte-dvoch zasa začali pobehovať a Alica začula
+Králika: „Na začiatok stačí za jedny táčky.“
+
+„Za jedny táčky? Ale čoho?“ rozmýšľala Alica. No
+nebola dlho na pochybách, lebo v nasledujúcej chvíli vleteli
+do okna okruhliaky a niektoré ju zasiahli do tváre. „Toto im
+zarazím!“ povedala si Alica a skríkla: „Prestaňte s tým!“
+Opäť nastalo hrobové ticho.
+
+Alica s úžasom zistila, že len čo kamienky dopadnú na
+dlážku, premenia sa na koláče. Razom ju osvietila myšlien—
+ka: „Ak jeden z tých koláčov zjem,“ pomyslela si, „iste to
+zapôsobí na moju veľkosť.—A keďže väčšia už nemôžem byť,
+asi budem od toho menšia.“
+
+Jeden teda zjedla a s radosťou zistila, že sa skutočne
+zmenšuje. Keď už bola taká malá, že prešla dverami,
+vybehla z domu a vonku na ňu čakal celý kŕdeľ drobných
+zvieratiek a vtáčkov. Uprostred stál chudák jašteričiak
+Vilo, podopierali ho dve morčatá a napájali ho z fľaše.
+Ked sa Alica zjavila, všetko sa vrhlo na ňu, ale ona uháňala,
+ako len vládala, a čoskoro bola v bezpečí v hustom lese.
+
+36
+
+Ako Vilo vyletel z komina
+
+— ako to mám urobiť? Myslím, že by som mala niečo vypiť
+alebo zjesť, alebo niečo také, no otázka je — čo?“
+
+Čo, to bola naozaj veľká otázka. Alica sa obzerala po
+kvetoch a trávach, no nič také, čo by sa za daných okolností
+dalo zjesť alebo vypiť, tam nevidela. Neďaleko rástla huba,
+skoro taká veľká ako ona. Obzrela si ju odspodku iz oboch
+strán a prišlo jej na um, aby sa pozrela, čo je navrchu.
+
+Zodvihla sa na prsty a ponad okraj huby pozrela, čo je na
+klobúku. Oči sa jej stretli s veľkými modrými očami
+
+,Húseničiaka.» Sedel tam so založenými rukami, ticho si
+bafkal z dlhej vodnej fajky a nevšímal si ani Alicu, ani nič
+me.
+
+% fifth chapter
+\section{\addfontfeature{Letters=SmallCaps}Húseničiakova rada}
+
+HÚSENIČIAK a Alica chvíľu mlčky na seba hľade-
+li. Napokon Húseničiak vybral fajku z úst a ozval sa
+mdlým, ospanlivým hlasom:
+
+„A ty si kto?“
+
+Takýto začiatok veru nepovzbudzoval do rozhovoru.
+Alica odpovedala zarazene: „Ani — ani neviem, pane, teraz
+naozaj neviem — viem iba to, kto som bola dnes ráno, keď
+som vstala, ale odvtedy som sa už iste niekoľkokrát
+premenila.“
+
+„Ako to myslíš?“ spýtal sa Húseničiak strmo. „Vyjadri
+sa!“
+
+„Ľutujem, pane, ale vyjadriť sa nemôžem,“ povedala
+Alica, „lebo ja nie som ja —- rozurniete?“
+
+„Nerozumiem,“ odpovedal Húseničiak.
+
+„Ľutujem, ale zrozumiteľnejšie vám to už neviem pove-
+dať,“ zdvorilo odpovedala Alica, „neviem, ako by som
+začala, viete, ja tomu sama nerozumiem; mať za jeden
+jediný deň také premenlivé rozmery, to človeka celkom
+popletie.“
+
+„Vôbec nie,“ povedal Húseničiak.
+
+„No, možno ste to ešte neskúsili,“ povedala Alica, „ale
+keď sa zakuklíte — a jedného dňa sa tomu nevyhnete
+— a potom sa zmeníte na motýľa, iste nebudete celkom vo
+svojej koži, nemyslite?“
+
+„Ani trocha,“ Húseničiak na to.
+
+„Zdá sa, že vy to prijímate inakšie,“ povedala Alica, „no
+keby šlo o mňa, ja by som sa určite cítila nesvoja.“
+
+„Ty, ty!“ opovržlivo povedal Húseničiak. „A kto Vlastne
+si?“
+
+40
+
+Húseničiakova rada
+
+Tak sa v rozhovore dostali znova tam, kde začali.
+Húseničiakove skúpe odpovede Alicu už trocha hnevali, nuž
+sa vystrela a odsekla mu: „Hádam by ste mi mali povedať
+najsamprv vy, kto ste!“
+
+„A prečo?“ spýtal sa Húseničiak.
+
+Ďalšia otázka, na ktorú Alica nevedela odpovedať. Nič
+vhodné jej neprichádzalo na um a Húseničiak mal podľa
+všetkého zlú náladu, nuž sa rozhodla, že odíde.
+
+„Vráť sa!“ volal za ňou Húseničiak. „Poviem ti niečo
+dôležité.“
+
+To už bola iná reč. Alica sa zvrtla a vrátila sa.
+
+„Nebuď zlostná,“ povedal Húseničiak.
+
+„A to je všetko?“ spýtala sa Alica a len-len že nevybuch-
+la od zlosti.
+
+„Nie,“ riekol Húseničiak.
+
+Alica si povedala, že teda ešte počká, veď aj tak nemá čo
+robiť, a možno jej napokon predsa len povie niečo, čo bude
+stáť za to.“ Niekoľko minút bez slova pobafkával. Potom
+rozhodil rukami, vybral z úst fajku a povedal: „Tak ty si
+myslíš, že si sa premenila, čo?“
+
+" „Už je to tak, pane,“ povedala Alica. „Nepamätám si, čo
+som kedysi vedela - a každých desať minút mením veľ-
+kosť!“
+
+„Čo si nepamätáš?“ spýtal sa Húseničiak.
+
+„No, skúsila som zarecitovať ,Hľaďte na tie čudné zvyky“,
+a vyšlo mi z toho niečo celkom iné,“ odpovedala Alica
+zronene.
+
+„Tak mi zarecituj niečo z klasiky,“ povedal Húseni-
+čiak.
+
+Alica si zložila ruky a začala:
+
+„Starý ste, Otče, priam vo veku kmeťa,“
+rečie syn, „dávno obelel va'm vlas.
+
+Ako to, že vám nebránia tie letá
+
+na hlave stáť — a denne toľký čas?“
+
+41
+
+Alica v krajine zázrakov
+
+   
+
+„Za mladi, priznám, mával som aj strac ,“
+
+rečie ten, „mozog či tým neutrpí.
+
+No dnes už viem, že v lebke mám len prach,
+nuž báť sa - čoho? Nie som predsa hlúpy.“
+
+„Starý ste, otče, hrubý ani žoc ,“
+syn na to, „tučný ako prasa v žite.
+Načo vám saltá, stojky, odzemok?
+Aký v tom zmysel? Nože vysvetlite!“
+
+„Za mladi, “ starec prázdnym pohne ďasnom,
+„býval som, synu, šibký ako tr'stie
+
+a touto iba masti! som sa masťou.
+
+Za lacný groš ti predám za dve hrste. “
+
+„Čeľuste, otče, slabé máte už,
+krom kaše ine' ťažko pohryziete.
+Kam zmizli kosti, zobák, celá hus?
+Ako to všetko zjete? Môj ty svete!“
+
+„Narobil som vždy všade veľa kriku,
+zloby a hádok - tak sa škrane tužia.
+Čas žičí tým, čo nevychodia z cviku;
+čeľuste im až po hrob dobre slúžia. “
+
+Húseničiakova rada
+
+„Starý ste, otče, “ mladík neustáva,
+„oči sa kalia so slabnúcim zrakom.
+
+A dobre viete: sláva — poľná tráva;
+načo na nose balansovať s rakom ?!“
+„ Otázok troje —- dosť je, synku milý, “
+odvetí starec, „prisám, neznáš miery.
+Čuš! Lebo počúvať ťa ďalej — v chvíli
+vykopnúť by ťa musel z týchto dverí!“
+
+„Tak to nie je,“ povedal Húseničiak.
+
+„Aj mne sa tak vidí,“ povedala Alica boj azlivo. „Niektoré
+slová sú celkom inakšie.“
+
+„Je to zle od začiatku do konca,“ vyhlásil Húseničiak
+rozhodným hlasom a potom bolo niekoľko minút ticho.
+
+Prvý sa ozval Húseničiak.
+
+„Aká veľká by si chcela byť?“ spýtal sa.
+
+„Na veľkosti mi ani tak nezáleží,“ vyhŕkla Alica, „no
+nepáči sa mi, že sa tak často mením, viete?“
+
+„Neviem,“ odpovedal Húseničiak.
+
+Alica nepovedala nič. Za celý život jej nikto toľko
+neodporoval. Cítila, že už stráca trpezlivosť.
+
+„Takto si so sebou spokojná?“ spýtal sa Húseničiak.
+
+„Nuž, ak dovolíte, radšej by som bola o trochu väčšia,“
+povedala Alica. „Výška desat centimetrov, to je predsa len
+úbohosť.“
+
+„To je celkom dobrá výška,“ nasrdil sa Húseničiak a za
+reči sa vystrel (meral presne desať centimetrov).
+
+„Ale keď ja na to nie som zvyknutá,“ bránila sa nešťastná
+Alica. A pomyslela si: „Keby sa len to čudo tak neurá—
+žalo!“
+
+„Časom si zvykneš,“ povedal Húseničiak, vopchal si fajku
+do úst a zasa fajčil.
+
+Tentoraz Alica trpezlivo čakala, kým sa mu uráči preho-
+voriť. O chvíľku Húseničiak vybral z úst vodnú fajku, raz či
+
+43
+
+Alica v krajine zázrakov
+
+dva razy zazíval a striasol sa. Potom zišiel z huby, odliezol do
+trávy a len tak mimochodom utrúsil: „Keď vezmeš z jednej
+strany, narastieš, keď z opačnej, zmenšíš sa.“
+
+„Z jednej strany. .. z opačnej — ale čoho?“ rozmýšľala
+Alica.
+
+„Huby,“ ozval sa Húseničiak, akoby sa bola spýtala
+nahlas; a v ďalšej chvíli ho už nebolo.
+
+Zamyslená Alica si hubu asi minútu prezerala a rozmýšľa-
+la, kde vlastne má tie dve strany; ťažko povedať, keď je
+celkom okrúhla. A tak roztiahla ruky, objala hubu čo možno
+najďalej a každou rukou z kraja kúsok odštipla.
+
+„A teraz ktorá je ktorá?“ povedala si a odhryzla z kúska
+
+v pravej ruke, aby si overila, čo sa stane. Vtom ju niečo
+udrelo do brady; narazila ňou na vlastné nohy.
+j Náhla zmena ju veľmi vyľakala, ale uvedomila si, že ak sa
+tak rýchlo scvrkáva, nesmie márniť čas a treba sa pustiť do
+druhého kúska. Bradu mala takú pritlačenú k nohám, že
+ledva ústa otvorila; napokon sa jej horko—ťažko podarilo
+prehltnúť kúštik huby z ľavej ruky.
+
+„Konečne mám voľnú hlavu,“ povedala si Alica natešene,
+ale jej radosť sa v najbližšom okamihu zmenila na hrôzu,
+lebo zistila, že si nedovidí na plecia. Keď pozrela dolu, videla
+iba dlhočizný krk, čo vyrastal ani tenké steblo z mora
+zeleného lístia, ktoré ležalo hlboko pod ňou.
+
+„Čo je to za zeleň?“ čudovala sa Alica. „A kde sa mi
+podeli plecia? Ach, a moje úbohé ručičky, ako to, že vás ani
+nevidím?!“ Pri tých slovách pohýbala rukami, ale nič
+nedocielila, iba to zelené lístie sa v diaľke zachvelo.
+
+Kedže nemala zrejme ani najmenšiu nádej dočiahnuť si
+rukami hlavu, pokúsila sa skloniť hlavu k rukám a s poteše—
+ním zistila, že krk sa jej ľahko ohýba na všetky strany celkom
+ako had. Podarilo sa jej ohnúť ho do elegantnej krivky a už
+ponárala hlavu do lístia — boli to koruny stromov, pod
+ktorými sa predtým prechádzala —, keď tu na ňu niekto
+prudko zasipel, takže sa zháčila; vyletela proti nej veľká
+Holubica a zúrivo ju tĺkla krídlami. \
+
+44
+
+Húseničiakova rada
+
+„Had!“ zvrieskla. .
+
+„Nie som nijaký had!“ odpovedala Alica nahnevane.
+„Dajte mi pokoj!“
+
+„Had si, keď ti vravím,“ opakovala Holubica miernejšie
+a zavzlykala: „Skúšala som už všeličo, ale tým, ako vidieť,
+v ničom nevyhoviem.“
+
+„Nemám poňatia, o čom hovoríte,“ povedala Alica.
+
+„Skúšala som to v koreňoch stromov, skúšala som to na
+brehoch rieky, skúšala som to v živých plotoch,“ vykladala
+Holubica a ani ju nepočúvala, „ale tie hady! V ničom im
+neulahodíš!“
+
+Alicu jej reči čoraz väčšmi miatli, no usúdila, že nemá
+zmysel miešať sa do toho, kým Holubica neskončí.
+
+„Nie dosť, že znášam vajíčka,“ povedala Holubica, „ešte
+aby som ich vo dne v noci chránila pred hadmi. Tri týždne
+som ani oka nezažmúrila!“
+
+„Mrzí ma, že ste sa tak vyplašili,“ povedala Alica, ktorej
+pomaly začalo svitať.
+
+„A keď som si napokon našla najvyšší strom v lese,“
+pokračovala Holubica a celkom sa rozkričala, „a myslela si,
+že konečne budem mať od nich pokoj, pn'plazia sa ku mne
+rovno z neba! Fuj, hadisko akési!“
+
+„Ale veď 'vám vravím, že nie som had!“ povedala Alica.
+„Ja som — ja som —“ '
+
+„Tak čo si teda?“ spýtala sa Holubica. „Čo si napochytro
+vymyslíš?“
+
+„Ja. . . ja som dievčatko,“ povedala Alica neistým hlasom,
+lebo si spomenula, koľko ráz sa za ten deň už preme-
+nila.
+
+„Povedač !“ zasmiala sa Holubica opovržlivo. „Videla
+som už veľa dievčatiek, ale ani jedno nemalo taký krk! Nie,
+nie. Si had a nemá zmysel zapierať to. Ešte mi nakoniec
+povieš, že si v živote nemala v ústach vajce!“
+
+„Mala som, čoby nie,“ povedala Alica, navyknuté vravieť
+vždy pravdu, „ved dievčatká majú rady vajíčka takisto ako
+hady.“
+
+45
+
+Alica v krajine zázrakov
+
+„To teda neverím,“ povedala Holubica, „ale ak áno, tak
+aj ony patria medzi hady a hotovo!“
+
+Tento záver Alicu tak prekvapil, že na chvíľu celkom
+stratila reč. Holubica to využila a dodala: „Je mi jasné, že
+sliediš za vajíčkami, a nezáleží mi na tom, či si dievča alebo
+had.“
+
+„Ale mne na tom záleží,“ vyhŕkla Alica, „okrem toho, ja
+za vajíčkami nesliedim. A keby aj, o vaše nestojím; surové
+nemám rada.“
+
+„Tak zmizni!“ povedala Holubica nasrdene a znova sa
+usalašila v hniezde.
+
+Alica sa skrčila a predierala sa pomedzi stromy. No aj tak
+musela podchvíl'ou zastať a vymotať si krk, čo jej uviazol
+medzi konármi. Po chvíľke si spomenula, že v rukách ešte
+stále drží kúsky huby; veľmi opatrne sa do nich pustila, po
+kúštičku odštipla najprv z jedného, potom z druhého, raz
+trocha podrástla, nato sa zasa scvrkla, kým sa jej napokon
+nepodarilo dosiahnuť pôvodnú výšku.
+
+Už dávno nebola ani približne taká veľká ako teraz, takže
+spočiatku sa cítila nesvoja; no o chvíľu si zvykla a začala sa
+zhovárať sama so sebou, ako to robievala aj inokedy: „Tak,
+polovica môjho želania sa splnila. Aké záhadné sú tie
+premenil Človek __nikdy nevie, čo sa s ním stane v najbližšej
+
+chyíli! Tak ci onak, mám zasa svoju výšku, terazuž len dôstať '—
+sa do tej krásnej záhrady - ale ako?“ Len čo to povedala,
+ocitla sa zrazu na čistinke; stál tam domček vysoký len čosi
+vyše metra. „Nech už tam býva ktokoľvek,“ pomyslela si
+Alica, „takáto veľká k nim nemôžem prísť, veď by od ľaku
+zošaleli!“ A tak začala znova odštipkávať z huby v pravej
+ruke, a až keď sa zmenšila asi na štvrť metra, odvážila sa
+
+priblížiť k domcu.
+
+% sixth chapter
+\section{\addfontfeature{Letters=SmallCaps}Prasacie bábätko}
+
+< VÍĽU stála, hľadela na domček a rozmýšľa-
+la, čo urobiť, keď tu zrazu vybehol z lesa
+
+lokaj _V liv'ýrejilĺza lokaja ho považovala pre tú livrej; inak
+podľa tváre by hádala skôr na rybu) a členkom zabúchal na
+dvere. Otvoril mu iný livrejovaný lokaj s okrúhlou tvárou
+a vypúlenými žabími očami. Alica si všimla, že obaja lokaji
+mali po celej hlave napudrované kučery. Bola veľmi
+zvedavá, o čo vlastne ide, nuž vyšla kúsok z lesa, aby si ich
+vypočula.
+
+Ryllílokajyytiahol spod pazuchy list, veľký skoro ako on
+sám, a škrobene ho podal druhému lokajovi: „Pre Vojvod-
+_kyňu. Pozvanie odKráľovnej na partiu kroketu.“ Žabí lo-
+kaj to po ňom opakoval rovnako škrobene, ibaže trochu
+poprehadzoval slová: „Od Kráľovnej. Pozvanie pre Voj-
+vodkyňu na partiu kroketu.“
+
+Nato sa obaja hlboko poklonili, až sa im kučery za-
+plietli.
+
+Alicu to tak rozosmialo, že sa znova musela stiahnuť do
+lesa — bála sa, že ju začujú. Ked odtiaľ o chvíľu vykukla,
+rybieho lokaja už nebolo a ten druhý sedel pri dverách na
+zemi a tupo zízal do neba.
+
+Alica placho pristúpila k dverám a zaklopala.
+
+. „Klapať je zbytočné,“ povedal lokaj, „a to pre dve prí—
+
+činy. Po prvé preto, že som na tej istej strane dverí ako ty. _
+A po druhé — tam dnu je taký hrmot, že ťa nikto nepočuje.“ l
+
+A skutočne, vnútri sa rozliehal neslýchaný lomoz — ktosi
+tam neprestajne vrieskal a kýchal, do toho z času na čas čosi
+treslo, ako keď sa tanier alebo hrniec rozbije na kusy.
+
+47
+
+  
+
+ 
+
+' , A
+5 a
+D
+
+Alica v krajine zázrakov
+
+„Ale, prosím vás,“ spýtala sa Alica, „ako sa teda mám
+dostať dnu?“
+
+„Klopať by malo zmysel iba vtedy,“ pokračoval lokaj
+a Alicu si vôbec nevšímal, „keby dvere boli medzi nami.
+Napríklad keby si bola dnu, mohla by si zaklopať a ja by
+som ťa pustil von.“ Po celý čas ako rozprával, hľadel do neba
+a to sa Alici videlo vyslovene neslušné. „Ale možno za to
+nemôže,“ povedala si, „keď má oči takmer navrch hlavy. No
+aspoň na otázku by mi mohol odpovedať. — Ako sa teda
+mám dostať dnu?“ opakovala nahlas.
+
+„Ostanem tu sedieť dozajtra,“ podotkol lokaj.
+
+Vtom sa dvere na domci otvorili a vyletel z nich veľký
+tanier, lokajovi rovno na hlavu; odrel mu nos a roztrieskal
+sa na kúsky o strom za ním.
+
+„— alebo možno do pozajtra,“ pokračoval lokaj rovna-
+kým hlasom, akoby sa nič nestalo.
+
+„Ako sa mám dostať dnu?“ spýtala sa Alica ešte
+hlasnejšie.
+
+„A máš sa ty vôbec dostať dnu?“ spýtal sa lokaj. „To je
+totiž prvá otázka.“
+
+To bola bezpochyby pravda, no Alici sa nepáčilo, že jej
+niekto dal takú otázku. „To je hrozné,“ zahundrala si, „ako
+sa tá čeliadka pre všetko škriepi. Človek by sa z toho
+zbláznil.“
+
+Lokajovi sa zdalo, že je vhodná chvíľa zopakovať s istými
+obmenami predošlú poznámku: „Ostanem tu sedieť a se-
+dieť, hoci aj celé dni,“ povedal.
+
+„Ale čo mám robiť ja?“ spýtala sa Alica.
+
+„Rob si, čo chceš,“ lokaj na to a začal si pískať.
+
+„Och, nemá zmysel zhovárať sa s ním,“ povedala si zúfalá
+Alica. „Veď je to akýsi chmuľo!“ Otvorila dvere a vošla
+dnu.
+rĎverami sa vchádzalo rovno do priestrannej, no neuveri-
+teľne začmudenej kuchyne. Uprostred na trojnožke sedela
+
+,Vojvodkyr'ia a pestovala dojča. Kuchárka sa skláňala nad
+ohňom a miešala plný kotol, podľa všetkého s polievkou.
+
+48
+
+Prasacie bábätko
+
+„V tej polievke bude priveľa korenia,“ povedala si Alica,
+pokiaľ vôbec mohla, lebo kýchala a kýchala.
+
+Vo vzduchu ho zaručene bolo priveľa. Dokonca aj
+Vojvodkyňa občas kýchla a dojča, to kýchalo a rumádzgalo
+bez prestania.
+
+Nekýchala iba kuchárka a veľká mačka, ktorá ležala pri
+kozube a škľabila sa od ucha k uchu.
+
+„Povedali by ste mi, prosím vás,“ bojazlivo sa ozvala
+Alica, lebo si nebola istá, či sa patrí, aby prehovorila prvá,
+„prečo sa tá vaša mačka tak škľabí?“
+
+„Lebo je to mačka Škľabka, “ povedala Vojvodkyňa.
+„Preto je to tak. Ty prasa!“ "
+
+Posledné slová vyštekla tak nečakane, že Alicu až myklo;
+ale hneď zistila, že nepatrili jej, lež bábätku. Dodala si teda
+
+odvahy a pokračovala:
+„Nevedela som, že sú nejaké mačky Škľabky. Nevedela
+som ani to, že sa mačky vôbec vedia škľabiť.“
+
+…..
+
+sa aj škľabia.“
+
+„Neviem ani o jednej, čo by sa škľabila,“ povedala Alica
+veľmi zdvorilo, lebo bola rada, že sa má s kým poroz-
+právať.
+
+„Veľa toho teda nevieš,“ na to Vojvodkyňa, „len čo je
+pravda.“
+
+Tón tejto poznámky sa Alici nepozdával, nuž si pomysle-
+la, že najlepšie bude rozprávať sa o niečom inom. Wm
+premýšľala, o čom, kuchárka odtiahla kotol z ohňa a všetko,
+čo jej prišlo pod ruky, z_ačala odrazu hádzať do Vojvodkyne
+
+49
+
+  
+
+(*
+ľ
+ľ
+v
+
+ 
+
+Alica v krajine zázrakov
+
+a bábätka - najprv prišli na rad kliešte, kutáč a lopatka, za
+nimi nasledovali panvice, taniere a misy. Vojvodkyňa si ich
+nevšímala, dokonca ani vtedy, keď ju niektoré udreli;
+a bábätko tak či tak neprestajne rumádzgalo, takže sa
+nevedelo, či aj ono dačo neutřžilo.
+
+„Prepánaj'ána, dávajte, prosím, pozor, čo robíte!“ vy-
+kríkla Alica, od hrôzy celá bez seba. „Ach, noštek!“ zvolala,
+keď mu popri nose preletela riadne veľká panvica a veľa
+nechýbalo, bola by mu ho odrazila.; \;
+
+..»!Seby %? každý ä.?afěl.-.lqn_9ĺiv_919___vggii“ povedala
+Vojvodkyňa Vchr—apfavýiň hlasom, „svet by sa krútil oveľa
+rýchlejšie-.“
+
+„A čo by sme tým získali,“ povedala Alica a potešila sa,
+že sa môže trochu pochválit svojimi vedomosťami. „Ved si
+len predstavte, čo by sa stalo s dňom a nocou! Iste viete, že
+Zem potrebuje dvadsaťštyri hodín, aby sa obrátila okolo
+svojej osi, no keby sme z tohto času chceli odsek —“
+
+„steknite jej _hlavu,“ skočila jej do reči Vojvodkyňa.
+„Dobre, že si mi to pripomenula.“
+
+Alica so strachom pozrela na kuchárku, či sa toho chytí,
+ale tá už zase miešala polievku a podľa všetkého nepočúvala,
+nuž Alica pokračovala: „Dvadsaťštyri hodín, myslím… Či
+len dvanásť? Ja —“
+
+„Daj mi s tým pokoj !“ povedala Vojvodkyňa. „Počty mi
+nikdy nešli!“ A znova začala čičíkať dieťa, spievala mu
+pritom akúsi uspávanku a po každom verši ním riadne
+potriasla.
+
+_ĺ/„Len ty zrúkni na chalana
+
+ja zmla'ť ho, keď ti kýcha;
+kýcha naschvál, líška planá,
+trucuje, ako dýcha. “
+
+ZBOR
+(pridala sa kuchárka i bábätko):
+„ Vau! Vau! Vau!“
+
+50
+
+Prasacie bábätko
+
+Pri dmhej slohe Vojvodkyňa pohadzovala dieťa tak
+prudko, že sa ten drobček náramne rozplakal a Alica
+
+slovám piesne skoro nerozumela:
+
+„ Chlapčisku sa výcvik zišiel:
+hneď dostal, len čo kýchol;
+tak koreniu na chuť prišiel
+
+a doma máme ticho. “
+
+ZBOR:
+„ Vau! Vau! Vau!“
+
+\;,Na! Popestuj ho chvíľu, ak chceš,“ povedala Vojvodky-
+
+ňa Alici a hodila jej decko. „Treba sa mi prichystať na ten
+kroket s Kráľovnou, “ a už jej nebolo. Kuchárka šmarila za
+ňou pekáč a len—len ze ju netrafilá.
+
+Alica mala čo robiť, aby dieťa Zachytila; lebo to bolo akési <-
+neforemné stvorenie, ruky a nohy mu trčali na všetky strany.
+„Ako morská hviezdica,“ pomyslela si Alica. Keď to
+úbožiatko konečne držala v náručí, fučalo ako rušeň,
+neprestajne sa zmršťovalo a znova rozpínalo, takže v prvej
+chvíli ho ledva udržala.
+
+Keď prišla na to, ako ho má správne pestovať (zvinula ho
+do akéhosi uzlíka a mocne držala za pravé ucho a ľavú nohu,
+aby sa nemohlo vystrieť), vyniesla ho na čerstvý vzduch. „Ak
+to dieťa neodnesiem,“ rozmýšľala, „za deň, za dva bude po
+ňom. Nechať ho tu by bola hotová vražda.“ Posledné slová
+povedala už nahlas a škvŕňa jej na odpoved zakrochkalo
+(kýchať už prestalo). „Nekrochkaj,“ hrešila ho Alica, „to sa
+nepatrí!“
+
+Dieťa znova zakrochkalo a Alica mu znepokojene pozrela
+do tváre, čo mu vlastne je. Noštek malo bezpochyby
+priveľmi ohnutý, bol to skôr rypáčik ako poriadny nos; aj oči
+boli na bábätko primalé: jedným slovom — to stvorenie sa
+jej ani trocha nepáčilo. „Možno len zavzlykalo,“ pomyslela
+si Alica a znova mu pozrela do očí, či v nich nemá slzy.
+
+51
+
+Alica v krajine zázrakov
+
+Nie, slzy nemalo. „Ak sa zmeníš na prasiatko, moje milé,“
+povedala Alica vážnym hlasom, „nič s tebou nechcem mať.
+To si pamätaj!“ Úbohé škvŕňa zasa zavzlykalo (alebo
+zakrochkalo —- ťažko povedať, čo to bolo) a chvíľu bolo
+ticho.
+
+Alica práve rozmýšľala: „Čo si ja s ním len doma
+počnem?“ keď sa znova tak rozkrochkalo, že mu celá
+vyľakaná pozrela do tváre. Nemýlila sa: bolo to naozaj
+prasiatko a Alica si uvedomila, že niesť ho ďalej už nemá
+zmysel.
+
+Postavila teda zvieratko na zem a veľmi jej odľahlo, keď
+pokojne odbehlo do lesa. „Keby podrástlo,“ povedala si,
+„bolo by z neho veľmi škaredé dieťa. Ale prasiatko bude
+z neho azda celkom pekná'j
+
+Rozmýšľala o známych deťoch, z ktorých by boli celkom
+obstojné prasiatka, a práve si vravela: „Len keby človek
+vedel, ako ich premeniť —“ no vtom sa preľakla; niekoľko
+metrov pred ňou sedela na strome mačka Škľabka.
+
+Keď zbadala Alicu, iba sa zaškľabila. „Vyzerá celkom
+dobrosrdečne,“ pomyslela si Alica. No pri pohľade na jej
+zuby a dlhé pazúry si povedala, že bude istejšie správať sa
+k nej úctivo.
+
+„Milá Škľabka,“ začala nesmelo, lebo si nebola istá, či sa
+jej také oslovenie bude pozdávať. Ale Mačka sa len väčšmi
+zaškľabila. „No prosím, jej sa to celkom páči,“ pomyslela si
+Alica a pokračovala. „Povedala by si mi, prosím, ako sa
+stadeto dostanem?“
+
+„Záleží na tom, kam sa chceš dostať,“ odpovedala jej
+Mačka.
+
+„To je mi jedno,“ Alica na to.
+
+„Nuž tak je jedno, kade pôjdeš,“ povedala Mačka.
+
+„ — len aby som sa dakde dostala,“ vysvetľovala Alica.
+
+„Ale to sa iste dostaneš,“ povedala Mačka, „len musíš
+dobre kráčať.“
+
+Alica uznala, že to nemožno poprieť, a tak to skúsila
+z iného konca. „Akí ľudia tu na okolí žijú?“
+
+52
+
+Prnsacie bábätko
+
+„Týmto smerom,“ povedala Mačka a kývla pravou
+labkogMKjgbučpíkg tamtým smerom,“ kývla druhou
+sú šibnpth """""
+
+„Ale ja nechcem ísť medzi šibnutých,“ bránila sa Alica.
+
+ 
+
+sot;_1__Šillnutá.__Ty si šibnutá.“
+ä„Ako vieš, že som šibnutá?“ spýtala sa Alica.
+
+„Musíš byť,“ povedala Mačka, „inak by si sem ne-
+prišla.“
+
+Alica to nepovažovala za dôkaz, no pýtala sa ďalej: „A
+ako vieš, že ty si šibnutá?“
+
+„Predovšetkým,“ povedala Mačka, „pes nie je šibnutý.
+V tom sa iste zhodneme, či nie?“
+
+„Možno,“ súhlasila Alica.
+
+„No prosím,“ pokračovala Mačka, „pes, keď je nazloste-
+ný, vrčí, a keď má radosť, krúti chvostom. A ja vrčím, keď
+mám radosť, a lcrútim chvostom, ked sa zlostím. Som teda
+šibnutá.“
+
+„Ja by som to nenazývala vrčanie, ale pradenie,“ namietla
+Alica.
+
+„Nazvi si to, ako chceš,“ povedala Mačka. „Hráš dnes
+11 Kráľovnej kroket?“
+
+„Rada by som,“ povedala Alica, „ale ešte som nedostala
+pozvánku.“
+
+„Uvidíš ma tam,“ povedala Mačka a zmizla.
+
+Alicu to ani neprekvapilo, celkom si už zvykla, že sa tu
+dejú čudné veci. Pozerala na miesto, kde predtým bola
+Mačka, a tá sa zrazu opät zjavila.
+
+„Mimochodom — čo je s tým dieťaťom?“ spýtala sa
+Mačka. „Skoro som sa zabudla opýta .“
+
+„Zmenilo sa na prasiatko,“ odpovedala Alica tak pokoj-
+ne, akoby to bolo celkom normálne.
+
+„Myslela som si to,“ povedala Mačka a opäť zmizla.
+
+Alica chvíľu čakala, či sa ešte neukáže, ale keď sa
+nezjavovala, o chvíľu pokračovala v ceste tým smerom, kde
+
+53
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alica v krajine zázrakov
+
+vraj býva Aprílový zajac. „Klobučníkov som už videla
+dosť,“ povedala si, „Aprílový zajac bude oveľa zaujímavejší
+— a keďže je máj, nebude hádam až tak veľmi šibnutý
+— aspoň nie natoľko ako v apríli.“ Ako to povedala,
+zodvihla hlavu a ľaľa, na strome znova sedela Mačka.
+
+„Povedala si prasiatko, či mačiatko?“ spýtala sa.
+
+„Povedala som prasiatko,“ odpovedala Alica, „ale nema-
+la by si sa tak z ničoho nič zjavovať a zase miznúť. Človeku
+sa,;štaoho krúti hlava!“
+
+i';',Prosím,“ povedala Mačka a tentoraz sa strácala veľmi
+pomaly, začala končekom chvosta a skončila úškľabkom
+a ten tam ostal ešte chvíľu po tom, keď jej už nebolo.
+
+„Nuž, mačku bez úškľabku som-už neraz videla,“ pomys-
+lela si Alica, „aleýškl'abok bez mačky?.To je najpodivuhod-
+n_ejšia vec, s .akou som sa kedy stretlagjf
+
+Netrvalo dlho a stála pred domom Aprílového zajaca.
+Dovtípila sa, že to bude on, lebo komíny pripomínali zajačie
+uši a strecha nebola pokrytá slamou, ale kožušinou. Bol to
+veľký dom, a tak si netrúfla priblížiť sa k nemu, kým si
+neodštipla kúsok huby z ľavej ruky a nepovyrástla na
+šesťdesiat centimetrov. Ešte aj potom kráčala k nemu
+bojazlivo, lebo si myslela: „Čo ak je priveľmi šibnutý?
+Tuším som mala ísť radšej ku Klobučníkovi.“
+
+% seventh chapter
+\section{\addfontfeature{Letters=SmallCaps}Bláznivý olovrant}
+
+_ vý _zajacýaKlobučník pili čaj, medzi nimi sedel plch
+
+P OD stromom na priedomí bol prestretý stôl; Aprílo-
+
+Sedmospáč a spal ako zabitý. Tí dvaja sa opierali o neho
+lakťami ako o operadlo a zhovárali sa mu nad hlavou.
+„Bohvieaké pohodlné to nemá,“ pomyslela si Alica, „ale
+keď spí, hádam je mu to jedno.“
+
+Stôl bol veľký, ale tí traja sa tlačili na jednom rohu. „Niet
+tu miesta! Niet tu miesta!“ vykrikovali, keď zbadali Alicu.
+
+„Miesta je tu až-až,“ odsekla im Alica a sadla si do
+veľkého kresla na druhom konci stola.
+
+„Napi sa vína,“ ponúkal ju Aprílový zajac.
+
+Alica pozrela na stôl, ale bol tam len čaj. „Nijaké víno
+nevidím,“ povedala.
+
+„Veď tam ani nie je,“ na to Aprílový zajac.
+
+„Tak nebolo od vás veľmi slušné ponúkať mi ho,“ hnevala
+sa Alica.
+
+„Ani od teba nebolo veľmi slušné sadnúť si k nám len tak
+bez pozvania,“ povedal jej Aprílový zajac.
+
+„Nevedela som, že je to váš stôl,“ bránila sa Alica. „Veď
+je tu prestreté pre viac ľudí, nie iba pre troch.“
+
+„Mala by si sa dať ostrihaf,“ povedal Klobučník. Už dlhší
+čas si Alicu zvedavo prezeral a iba teraz sa ozval.
+
+„Nechajte si také osobné poznámky a nemiešajte sa do
+mojich súkromných vecí,“ odsekla mu Alica. „To je
+bezočivosť!“
+
+Klobučník vypleštil oči, ale zmohol sa iba na otázku:
+„Prečo je havran ako písací stôl?“
+
+„Teraz bude veselo. Som rada, že začali s hádankami,“
+
+55
+
+Alica v krajine zázrakov
+
+pomyslela si Alica. „Myslím, že to uhádnem,“ povedala
+nahlas.
+
+„Chceš povedať, že na to vieš odpovedať?“ spýtal sa
+Aprílový zajac.
+
+„Presne to,“ povedala Alica.
+
+„Tak povedz, čo si myslíš,“ pokračoval Aprílový zajac.
+
+„A či nevravím?“ vyhŕkla Alica. „Totiž — totiž myslím si
+to, čo vravím — veď to je, dúfam, to isté.“
+
+„Vôbec nie,“ odporoval jej Klobučník. „Kdeže. Tak by si
+mohla povedať, že ,Vidím, čo jem“ je to isté ako ,Jem, čo
+vidím“!“
+
+„A takisto by si mohla povedať,“ ozval sa Sedmospáč
+akoby zo sna, „že ,Dýcham, keď spírn' je to isté ako ,Spím,
+ked dýcham'!“
+
+„No, u teba je to, pravdaže, to isté,“ povedal Klobučník.
+Rozhovor ustal, na chvíľu sa odmlčali. Alica sa v duchu
+rozparnätávala, čo vie o havranoch a písacích stoloch.
+
+Nebolo toho veľa.
+
+Prvý sa ozval Klobučník. (ako je dnes?“ obrátil sa na
+Alicu—_Výytiahol—zĺrrĺecka hodinky, rozčulene ich potriasal
+a prikladal si ich k uchu.
+
+Alica chvíľu rozmýšľala: „Štvrtého.“
+
+„Dva dni meškajú!“ vzdychol si Klobučník. „Vravel
+som ti, že maslo im uškodí,“ oboril sa na Aprílového
+zajaca.
+
+„Veď to bolo výberové maslo,“ odpovedal Aprílový zajac
+zronene.
+
+„Dobre, ale s maslom sa ta iste dostali aj omrvinky,“
+hundral Klobučník, „nemal si to robiť nožom na chlieb.“
+
+Aprílový zajac vzal hodinky a zamračené na ne pozeral,
+potom ich ponoril do šálky čaju a znova si ich prezeral, ale
+nič múdrejšie mu neprišlo na um, len čo už raz povedal:-
+„Veď to bolo výberové maslo.“
+
+Alica mu zvedavo pozerala ponad plece. „Aké sú to čudné
+hodinky,“ utrúsila. „Ukazujú, kOľkého- je, a nie koľko je
+hodín.“
+
+56
+
+Bláznivý olovrant
+
+„Čo je na tom čudné?“ zahundral Klobučník. „Ukazujú
+
+vari tvoje hodinky, ktorý rok máme teraz?“
+„Jasné, že nie,“ pohotovo odpovedala Alica. „Načo by aj,
+
+ked rok trvá tak dlho.“
+
+„No a tak je toi v mojom prípade,“ na to Klobučník.
+
+To Alicu už celkom zmiatlo. Klobučníkova poznámka
+akoby nemala zmysel, hoci z jazykovej stránky bola
+správna.
+
+„Akosi vám dosť dobre nerozumiem,“ povedala čo
+najzdvorilejšie.
+
+„Ten Sedmospáč zasa spí,“ povedal Klobučník a kvapol
+
+mu na nos trocha horúceho čaju.
+Sedmospáč nervózne potriasol hlavou, ani oči neotvoril
+
+ 
+
+a povedal:
+„Jasné, jasné, aj ja som to chcel povedať.“
+
+„Rozlúštíla si už tú hádanka?“ obrátil sa Klobučník na
+Alicu.
+
+„Nie, poddávam sa,“ odpovedala Alica. „Čo je to?“
+
+„Nemám ani poňatia,“ povedal Klobučník.
+
+„Ani ja,“ na to Aprílový zajac.
+
+Alica omrzene vzdychla. „Podľa mňa by ste mali tráviť
+čas múdrejšie, a nie zabíjať ho hádankami, čo sa nedajú
+uhádnuť.“
+
+ĺKeby si poznala Čas tak ako ja,“ povedal Klobučník,
+„nevravela by si, že ho zabíjam. Skôr on zabíja mňa.“
+
+„Ja vám nerozumiem,“ povedala Alica.
+
+„Ani nemôžeš,“ povedal Klobučník a pohŕdavo kývol
+hlavou. „Iste si sa s Časom ešte nikdy ani nezhováralafř
+
+„Asi nie,“ poznamenala Alica Opatrne, „ale viem, že keď
+cvičím na klavíri, musím si čas vydupávať nohou.“
+
+„Ach! Teraz je to už jasné!“ povedal Klobučník. „Čas
+neznáša, keď ho niekto vydupáva, a ešte k tomu nohou. Ale
+. kto je s ním zadobre, tomu napraví hodiny, ako si zažiada.
+'V Povedzme, je osem hodín ráno, začína sa vyučovanie. \Len
+Času- naznačíš, čo chceš, a ručičky doslova _preleýltŕiapo'
+i ciferníku. Pol jednej, ide sa na obed!“
+
+57
+
+ 
+
+Alica v krajine zázrakov
+
+„Na to by som pristal aj ja!“ zašepkal Aprílový zajac.
+
+„To by bolo úžasné,“ zamyslela sa Alica, „ibaže, viete, ja
+by som ešte nebola hladná.“
+
+„Spočiatku možno nie,“ povedal Klobučník, „ale na tej
+pol jednej by ručičky ostali tak dlho, koľko by si chcela.“
+
+„A vy to tak robíte?“ spýtala sa Alica.
+
+Klobučník smutne zavrtel hlavou. „Kdeže! Pohádali sme
+sa vlani v apríli — vieš, tesne pred tým, ako tomuto tu
+preskočilo —“ (a čajovou lyžičkou ukázal na Aprílového
+zajaca) „bolo to na gálakoncerte u Srdcovej kráľovnej a ja
+som tam mal spievať:
+
+Keby som bol malým netopierom,
+hojdal by sa každým podvečerom. ..
+
+Poznáš tú pieseň?“
+„Už som ju kdesi počula,“ povedala Alica.
+„Tak vieš,“ pokračoval Klobučník, „ako to ide ďalej:
+
+s napchatým gágorom,
+s čajkami nad morom,
+v zelenej suknici
+
+ako čaj v kanvici…“
+
+Vtom sa Sedmospáč strhol a začal spievat:
+
+„Čaj, čaj, čaj, zelenaj sa háj,
+čaj, čaj, čaj, zelenaj sa háj, “
+
+a spieval tak dlho, kým ho neuštipli, aby už prestal.
+„Nuž a ledva som dospieva] prvú strofu, Kráľovná
+zvrešťala:
+_ ,Zabíja čas! Odtnite mu hlavu!“ “
+1] „To je strašne surové!“ skríkla Alica.
+.' „A odvtedy,“ pokračoval Klobučm'k smutne, ,môžem
+„ prosiť, koľko chcem, v ničom mi nevyhovie. Stále je päť
+( hodín.“
+
+58
+
+Alica v krajine zázrakov
+
+Alici svitlo: „Tak preto sa vám tu nakopilo toľko čajových
+šálok?“ spýtala sa. _,
+
+„Hej, preto,“ prisvedčil Klobučník a vzdychol si: , ,lStále je
+Šolovrant, nemáme čas ani riad poumýva; i
+
+„Tak si len zakaždým presadnete o kúsok ďalej?“ opýtala
+sa Alica.
+
+„Ako vravíš,“ prisvedčil Klobučník, „keď sa jedny šálky
+a pn'bory zašpinia, trocha sa posunieme.“
+
+„A čo keď sa vrátite na samý začiatok?“ osmelila sa spýtať
+Alica.
+
+„Zhovárajme sa radšej o niečom inom,“ skočil jej do reči
+Apn'lový zajac a zívol. „Už ma to zunovalo. Navrhujem, aby
+nám slečinka porozprávala nejakú rozprávku.“
+
+„Ale ja nijakú neviem,“ preľakla sa Alica.
+
+„Tak nech rozpráva Sedmospáč!“ skríkli obaja. „Hore
+sa, Sedmospáčik!“ a štuchali do neho z jednej i druhej
+strany.
+
+Sedmospáč pomaly otváral oči. „] a som nespal,“ ozval sa
+mdlým, chrapl'avým hlasom, „počul som každé vaše slovo,
+bračekovci.“
+
+„Rozprávaj nám rozprávku!“ povedal Aprílový zajac.
+
+„Áno, rozprávaj!“ prosíkala Alica.
+
+„A ponáhlaj sa s ňou,“ dodal Klobučník, „lebo zasa za-
+spíš skôr, ako dôjdeš na koniec.“
+
+„Kde bolo, tam bolo, boli raz tri sestričky,“ spustil
+Sedmospáč tak rýchlo, ako len vedel, „Elza, Lolka a Tilka,
+a žili na dne studničky —“
+
+„A čím sa živili?“ spýtala sa Alica, ktorá vždy prejavovala
+veľký záujem o jedenie a pitie.
+
+„Živili sa melasou,“ odpovedal Sedmospáč po krátkom
+rozmýšľaní.
+
+„To nie je možné,“ poznamenala Alica mierne. „Z toho
+by ochoreli.“
+
+„Ved aj ochoreli, a ako!“ povedal Sedmospáč.
+
+Alica sa pokúšala predstavit si, ako asi vyzerá taký
+
+60
+
+Bláznivý olovrant
+
+nezvyčajný život, ale nevedela si
+s tým rady, tak pokračovala: „Prečo
+vlastne žili na dne studničky?“
+
+„Dolej si ešte čaju,“ povedal Alici
+Aprílový zajac celkom vážne.
+
+„Nijaký čaj som ešte nemala,“
+odpovedala Alica urazene, „tak si nemôžem doliať.“
+
+„Chceš povedať odliať, nie?“ povedal Klobučník. „Tam,
+kde nič nie je, ľahšie sa dolieva ako odlieva.“
+
+„Vás sa nik nepýtal,“ odvrkla mu Alica.
+
+„Aha! A kto teraz robí osobné poznámky?!“ spýtal sa
+Klobučník víťazoslávne.
+
+Alica nevedela, čo na to povedať. Naliala si teda trocha
+čaju, vzala si chlieb s maslom a znova sa spýtala Sedmospá-
+ča: „Prečo vlastne žili na dne studničky?“
+
+Sedmospáč zasa chvíľu rozmýšľal a potom povedal: „Bola
+to melasová studnička.“
+
+„Také nebývajú!“ rozčúlila sa Alica, ale Klobučník
+a Aprílový zajac ju tíšili: „Pst! Pst!“ — a Sedmospáč pove-
+dal namrzene: „Keď sa nevieš slušne správať, dorozprávaj
+si rozprávku sama!“
+
+„Nie, rozprávajte ďalej !“ prosila Alica. „Už vás nebudem
+vyrušovať. Myslím si, že jedna taká studňa by voľakde azda
+aj mohla byť.“
+
+„Vraj jedna a azda!“ rozhorčoval sa SedmosPáč. No dal si
+povedať a pokračoval: „Tie tri sestričky sa veľmi vyčerpávali
+tým, že —“
+
+„Čo? Vyčerpávali?“ spýtala sa Alica; celkom zabudla, čo
+sľúbila.
+
+ 
+
+61
+
+Alica v krajine zázrakov
+
+„Čo vyčerpávali?! No melasu!“ odpovedal Sedmospáč
+tentoraz bez rozmýšľania.
+
+„Chcem čistú šálku,“ prerušil ich Klobučník, „presadni-
+me si o jedno miesto.“
+
+A hned si sadol na vedľajšiu stoličku. Sedmospáč urobil to
+isté. Aprílový zajac si presadol na Sedmospáčovo miesto
+a Alica si voľlcy—nevoľky sadla na miesto Aprílového zajaca.
+Dobre pochodil iba Klobučník, Alica bola na tom oveľa
+horšie ako predtým, lebo Aprílový zajac si pred chvíľou
+prevrhol na tanier kanvicu na mlieko.
+
+Alica nechcela Sedmospáča znova uraziť, preto začala
+veľmi opatrne: „Ale ja tomu dobre nerozumiem. Skade tú
+melasu vyčerpávali?“
+
+„Ak sa zo studne na vodu čerpá voda,“ povedal Klobuč-
+ník, „tak sa zo studne na melasu čerpá melasa, ty hlu-
+paňa!“
+
+„Ale ako z nej mohli čerpať, keď boli v nej?“ povedala
+Alica Sedmospáčovi; Klobučníkovu poznámku si ani ne-
+všimla.
+
+„V nej čerpali z nej a z nej čerpali v nej,“ vysvetľoval jej
+Sedmospáč.
+
+ĺ Táto odpoveď chuderu Alicu tak zrniatla, že Sedmospáča
+chvíľu vôbec neprerušovala.
+
+„Ako som povedal, veľmi sa tým vyčerpávali,“ pokračo-
+val Sedmospáč, pritom zíval a trel si oči, lebo bol už veľmi
+ospanlivý, „a kým nevyčerpali tú melasu a všetko ostatné, čo
+sa začína na M —“
+
+„Prečo na M?“ spýtala sa Alica.
+
+„Prečo nie?“ spýtal sa Aprílový zajac.
+
+Alica zrnĺkla.
+
+Sedmospáč už zavieral oči a podriemkaval, ale keď ho
+Klobučník štuchol, slabo zaškrečal, trocha sa prebral a po-
+kračoval: „— všetko, čo sa začína na M, napríklad myšacie
+chvosty, mesiac, márnosť, mucha — viete, že sa vraví:
+,Márnosť, mucha mu sadla na nos“ — no počuli ste už, aby
+niekto čerpal zo studne muchy?“
+
+62
+
+Bláznivý olovrant
+
+„Keď sa tak pýtate,“ povedala Alica v rozpakoch, „ja
+naozaj nemyslím _“
+
+„Tak by si nemala ani hovoriť,“ prerušil ju Klobučm'k.
+
+To už bolo priveľa aj na Alicu. Znechutene vstala
+a odchádzala. Sedmospáč ihneď zaspal a tí dvaja si ani
+nevšimli, že odchádza, hoci sa raz či dva razy obzrela
+v nádeji, že ju zavolajú nazad. Naposledy zazrela, ako
+pchajú Sedmospáča do čajovej kanvice.
+
+„Tam sa už nevrátim za nič na svete,“ povedala si Alica,
+keď sa predierala lesom. „Bláznivejší olovrant som ešte
+nezažila.“
+
+Ako to povedala, všimla si, že na jednom strome sú
+dvierka. ,;To je čudné!“ pomyslela si. „Ale dnes je všetko
+čudné. Najlepšie bude, keď pôjdem rovno dnu.“ A vošla.
+
+A znova sa ocitla v dlhej sieni, hneď vedľa skleného
+stolíka. „Už si dám lepší pozor,“ povedala si, vzala zlatý
+kľúčik a odomkla dvierka do záhrady. Potom si odštipkávala
+z huby (kúštik ešte mala vo vrecku), kým sa nezmenšila asi
+na tridsať centimetrov. Potom prešla chodbičkou a potom
+— konečne bola v prekrásnej záhrade medzi žiarivými
+záhonmi kvetov a chladnými vodometmi.
+
+% eighth chapter
+\section{\addfontfeature{Letters=SmallCaps}Kráľovnino kroketové ihrisko}
+
+RI vchode do záhrady bol veľký ružový ker. Rástli na
+
+ňom biele ruže, ale traja záhradníci ich usilovne
+natierali na červeno. Alici sa to videlo veľmi čudné, chcela sa
+im prizrieť zblízka, a keď došla k nim, počula, ako jeden
+vraví: „Dávaj pozorďä_torka! Fŕkaš na mňa farbu!“
+
+„Ja za to nemôžem,“ zahundral Pätorka. „Sedmička ma
+štuchol do lakťa.“
+
+Sedmička hneď zdvihol hlavu a povedal: „Tak, tak,
+Pätorka! Len to vždy zvaľ na druhého.“
+
+„Ty sa radšej neozývaj!“ povedal Pätorka. „Práve včera
+som počul Kráľovnú, ako vravela, že by si si zaslúžil, aby ťa
+popravili.“
+
+„A za čo?“ spýtal sa ten prvý.
+
+„Teba, Dvojka, do toho nič!“ povedal Sedmička.
+
+„Ako to, že nič!“ povedal Pätorka. „Ja mu to poviem - za
+to, že namiesto cibule doniesol kuchárovi tulipánové ci-
+bul'ky.“
+
+Sedmička šmaril štetec o zem a začal lamentovať: „Počuli
+ste, taká nespravodlivpsť —“ no vtom zbadal Alicu, ako tam
+postáva a pozoruje ich, a hneď sa zarazil. Aj ostatní sa
+obzreli a všetci sa hlboko poklonili.
+
+„Povedzte mi, prosím,“ začala Alica nesmelo, „prečo
+natierate tie ruže?“
+
+Pätorka a Sedmička nepovedali nič, iba hľadeli na
+Dvojku. Dvojka ticho vysvetľoval: „Viete, slečinka, to je
+tak, toto mali byť červené ruže, ale my sme omylom zasadili
+biele. Keby to Kráľovná zistila, prišli by sme o hlavy. A tak,
+slečinka, robíme, čo môžeme, kým príde —“ Vtom Pätorka,
+ktorý vystrašene napínal zrak cez celú záhradu, zvolal:
+
+64
+
+Alica v krajine zázrakov
+
+„Kráľovná! Kráľovná!“ Všetci traja záhradníci sa razom
+hodili tvárou k zemi. Ozval sa dupot a Alica sa obzrela, lebo
+na Kráľovnú bola veľmi zvedavá.
+
+Prví šli krížoví vojaci. Vyzerali ako tí traja záhradníci, boli
+'podlhovastí a plochi a ruky a nohy mali v rohochf Potom šlo
+- desať károýých dvoranov, takisto ako 'Vojaci aj oni pochodo-
+
+vali v dvojstupe. Za nimi šlo desať kráľovských detí; drobizg
+sa po dvoch držal za ruky a veselo poskakoval. Deti boli
+vyzdobené srdcami. Ďalej kráčali hostia, zväčša kráľovia
+a kráľovné, a medzi nimi Alica zazrela aj Bieleho králika;
+rozčúlene niečo mlel, všetkému, čo kto povedal, sa smial
+a prešiel popri Alici, ani ju nezbadal. Srdcový dolník niesol
+na tmavočervencj zamatovej poduške kráľovskú korunu.
+Na samom konci tohto veľkolepého sprievodu kráčali
+i_s_R__1_)__cový KRÁĽ a SRDCQVÁ KRÁĽOVNÁ.
+
+Alica váhala, či sa nevrhnút tvárou k zemi ako tí traja
+záhradníci, ale nepamätala sa, že by bol pri sprievodoch taký
+predpis. „Okrem toho, aký zmysel by mal sprievod,“
+pomyslela si, „keby sa všetci ľudia hádzali tvárou k zemi
+a nič by z neho nevideli?“ A tak tam len stála a čakala.
+
+Keď sa sprievod priblížil k Alici, všetci zastali, pozerali na
+ňu a Kráľovná sa strmo spýtala: „A toto je kto?“ Obrátila sa
+na Srdcového dolníka, no ten sa iba uklonil a namiesto
+odpovede sa usmial.
+
+„Truľo!“ Kráľovná nazlostene mykla hlavou a obrátila sa
+k Alici: „Ako sa voláš, dievča?“
+
+„Volám sa Alica, vaša výsosť,“ odpovedala jej veľmi
+zdvorilo, ale v duchu si povedala: „Ved sú to vlastne len
+karty! Prečo by som sa ich mala báť?!“
+
+„A čo tamtí?“ Kráľovná ukázala na troch záhradníkov pri
+ružovom kríku. Ležali, ako vieme, tvárou k zemi a na chrbte
+mali takú vzorku ako ostatní, nuž nevedela, či sú to
+záhradníci, vojaci, dvorania, alebo dokonca tri z jej vlast-
+ných detí.
+
+„Ako to ja mám vedieť?“ odpovedala Alica, prekvapená
+vlastnou trúfalosťou. „To nie je moja starosť.“
+
+66
+
+Kráľovnina kroketové ihrisko
+
+'Kráľovná od zlosti očervenela ani paprika, chvíľu si ju
+premeriavala ako dravá šelma a napokon zj ačala: „Hlavu jej
+zoťať! Hlavu jej j“
+
+„Hlúposť!“ zvolala Alica a Kráľovná stíchla.
+
+Kráľ položil Kráľovnej ruku na plece a nesmelo sa
+ozval:
+
+„Uváž, drahá, že je to len dieťa.“
+
+Kráľovná sa mu zlostne vytrhla a rozkázala Dolníkovi:
+
+„Obráť ich!“
+
+Dolnik ich opatrne jednou nohou poobracal.
+
+„Vstaňte!“ zvrieskla Kráľovná. Traja záhradníci v mihu
+skočili na nohy a klaňali sa Kráľovi, Kráľovnej, kráľovským
+deťom a všetkým ostatným.
+
+„Prestaňte!“ skríkla Kráľovná. „Už sa mi z vás hlava
+krúti!“ Nato pozrela na ružový krik a spýtala sa: „Čo ste to
+tu stvárali?“
+
+„Ak dovolíte, vaša výsosť,“ povedal Dvojka ponížene
+a kľakol si na jedno koleno, „my sme chceli -“
+
+„"Ach' ták!“ skočila mu do reči Kráľovná, ktorá si už
+medzitým poobzerala ruže. „Hlavy im zoťať!“ A sprievod sa
+pohol ď alej, zostali tam iba traja vojaci, aby vykonali
+rozsudok. Nešťastní záhradníci hľadali pomoc 11 Alice.,
+
+„Popraviť vás nepopravia!“ povedala Alica a strčila ich do
+veľkého kvetináča, ktorý stál obďaleč. Vojaci sa tam chvíľu
+motali, hľadali ich a potom pokojne odpochodovali za
+ostatnými.
+
+LTak čo je s ich hlavami?“ skn'kla Kráľovná.
+
+„Sú preč, vaša výsosť!“ skríkli aj vojaci.,
+
+„Dobre!“ skríkla Kráľovná. „Vieš hrať kroket?“
+
+Vojaci hľadeli na Alicu, lebo zrejme sa pýtala jej.
+
+„Viem!“ skríkla Alica.
+
+„Tak pod s nami!“ zrevala Kráľovná. Alica sa pridala
+k sprievodu a tŕpla, čo bude ď alej.
+
+„Dnes je — dnes je veľmi pekne,“ placho sa ozval niekto
+pri nej. Kráčala vedľa Bieleho králika a ten na ňu úzkostlivo
+pokukoval.
+
+67
+
+Alica v krajine zázrakov
+
+„Pekne je,“ povedala Alica. „Kde je Vojvodkyňa?“
+„Pst! Pst!“ na to Králik ticho. Vystrašene sa poobzeral,
+potom sa postavil na prsty a s ústami pri Alicinom uchu
+
+zašepkal: „Odsúdili ju na smrť.“
+
+„A za čo si to vyslúžila?“ dozvedala sa Alica.
+
+„Vravíš, že si to zaslúžila?“ spýtal sa Králik.
+
+„Nie, nie,“ povedala Alica. „Tak som to nemyslela.
+Pýtala som sa, čo vyviedla, že ju idú popraviť?“
+
+„Dala Kráľovnej zaucho —“ začal Králik. Alica vyprskla
+smiechom. „Pst! Pst!“ šepkal Králik vyľakane. „Aby ťa
+nepočula Kráľovná! Vieš, trocha sa oneskorila a Kráľovná
+
+povedala -“
+„Na svoje miesta!“ zrevala Kráľovná. Sprievod sa rozu-
+
+ 
+
+Kráľovnina kroketové ihrisko
+
+tekal na všetky strany, všetci do seba vrážali, no po chvíli
+sa predsa len zoradili a hra sa začala.
+
+Alica si povedala, že také čudné ihrisko v živote nevidela.
+Všade samý hrboľ, všetko rozryté, namiesto kroketových
+lopti_či_ek živé ježe, namiesto palíc živé plameniaky a bránky
+robili vojaci, predklonení tak, že sa rukami i nohami opie—
+rali o zem.
+
+*Spočiatku mala Alica najväčšie ťažkosti s plameniakom.
+Nevedela si s ním poradiť. Podarilo sa jej síce vopchať si jeho
+trup pod pazuchu tak, že nohy mu viseli, no zakaždým, keď
+mu narovnala krk a hlavou chcela odpáliť ježa, plameniak sa
+obrátil a pozeral jej do tváre s takým zmäteným výrazom
+v očiach, že ju to rozosmialo. Keď mu napravila hlavu a opäť
+sa chystala udrieť, rozčúlil ju zasa jež, ktorý sa medzitým
+rozvinul a liezol preč. Navyše zakaždým, keď chcela ježa
+odpáliť, prekážal jej v tom hrbolec alebo ryha. Aj predklo-
+není vojaci sa jednostaj vztyčovali a odchádzali na inú časť
+ihriska, takže Alica čoskoro usúdila, že takto hrať je naozaj
+veľmi ťažko.
+
+Wšetci hráči hrali naraz, nik sa nedržal poradia, ustavične
+sa škriepili pre ježe. Kráľovná sa tak rozzúrila, že takmer bez
+prestania dupotala a jačala: „Zotnite mu hlavu!“ alebo
+„Zotnite jej hlavu!“
+
+Alici z toho bo o už úzko. S Kráľovnou sa síce ešte
+nepovadila, no vedela, že k tomu môže dôjsť každú chvíľu.
+„A čo potom so mnou bude?“ pomyslela si. „Akosi strašne
+radi tu ľuďom stínajú hlavy, div, že tu' ešte niekto ostal
+nažive.“
+
+A tak hľadala spôsob, ako zmiznúť, rozmýšľala, či sa jej
+podarí nepozorovane ujsť, a tu práve zbadala v povetrí akési
+čudné zjavenie. Spočiatku ju to zmiatlo, ale keď sa lepšie
+prizrela, videla, že to sa niekto škľabí, a hneď vedela: „Veď
+je to mačka Škľabka, aspoň sa mám s kým porozprávať.“
+
+„Ako sa máš?“ spýtala sa Mačka, keď jej pribudlo z úst
+
+toľko, aby mohla rozprávať.
+
+69
+
+Alica v krajine zázrakov
+
+Alica počkala, kým sa zjavia oči, a potom len prikývla.
+„Nemá zmysel zhovárať sa s ňou,“ vravela si, „kým sa jej
+nevynoria uši, alebo aspoň jedno.“ O chvíľu sa zjavila celá
+hlava, a tak Alica postavila plameniaka na zem a rozhovorila
+sa o hre; bola rada, že ju konečne niekto počúva. Mačka si
+zrejme myslela, že už z nej vidieť dosť veľký kus, nuž viac sa
+ani neobjavilo.
+
+„To nie je nijaká hra,“ posťažovala sa Alica, „a tak
+príšerne sa hádajú, že človek vlastného slova nepočuje.
+Pravidlá podľa všetkého nepoznajú, a ak aj poznajú, nik ich
+nedodržiava. Nevieš si predstaviť, aký je z toho zmätok, keď
+je tu kadečo živé — napríklad bránka, do ktorej som práve
+
+% ninth chapter
+\section{\addfontfeature{Letters=SmallCaps}Príbeh Falošnej korytnačky}
+
+NEVIEŠ si predstaviť, srdiečko moje, aká som rada,
+
+„ že ťa zasa vidím,“ povedala Vojvodkyňa, nežne chy-
+
+tila Alicu pod pazuchu a tak spolu odchádzali z ihriska.
+
+Alica bola rada, že Vojvodkyňa má dobrú náladu;
+
+v kuchyni bola pravdepodobne taká zlostná iba od toho
+korenia.
+
+„Ked ja budem Vojvodkyňou,“ povedala si (ale neznelo
+to veľmi presvedčivo), „nebudem mať V kuchyni ani zrnko
+korenia. Polievka je výborná aj bez neho. Možno práve od
+korenia bývajú ľudia podráždení,“ rozmýšľala ďalej celá
+natešená, že prišla na nový objav, „a od octu kyslí, od
+harmančeka horkí — a — a od cukríkov a podobných
+sladkostí sa deti sladko usmievajú. Keby si to dospelí
+uvedomili, iste by s cukríkmi tak nežgrlošili.“
+
+Na Vojvodkyňu medzitým úplne zabudla a skoro sa
+naľakala, keď sa jej ozvala pri samom uchu. „Ty o niečom
+rozmýšľaš, dušička, a zabúdaš hovoriť. V tejto chvíli ne-
+viem, aké z toho vyplýva ponaučenie, ale veď ja si spome-
+
+niem.“
+„A čo keď z toho nijaké ponaučenie nevyplýva?“ odvážila
+sa podotknúť Alica.
+
+„Ale, ale, dieťa!“ povedala Vojvodkyňa. „Zo všetkého
+vyplýva nejaké ponaučenie, len ho treba nájsť.“ A pritisla sa
+k nej ešte tuhšie.
+
+Alica nebola jej blízkosťou práve nadšená. Po prvé preto,
+lebo Vojvodkyňa bola veľmi škaredá, po druhé preto, lebo
+bradou, nepríjemne špicatou, dosahovala presne po Alicino
+plece. Nechcela však byť nezdvorilá a znášala to, ako sa
+dalo.
+
+75
+
+Alica v krajine zázrakov
+
+„Zdá sa, že hra je teraz zaujímavejšia,“ povedala, aby reč
+nestála.
+
+„Tak je,“ povedala Vojvodkyňa, „a z toho plynie
+ponaučenie, že svetom hýbe láska.“
+
+„Ktosi povedal,“ zašepkala Alica, „že svet sa hýbe vtedy,
+keď sa každý stará, o čo sa má stara .“
+
+„Hej! Veď to je takmer to isté,“ povedala Vojvodkyňa,
+zaryla sa špicatou bradou do Alicinho pleca a dodala:
+„Z toho plynie ponaučenie: Dávaj pozor na zmysel, slová
+ti vyplynú samy.“
+
+„Ako rada vo všetkom hladá ponaučenie,“ pomyslela si
+Alica.
+
+„Iste sa čuduješ, prečo ťa nechytím okolo pása,“ ozvala sa
+Vojvodkyňa po chvíli. „Len preto, lebo neviem, akú má
+povahu tvoj plameniak. Mám to skúsiť?“
+
+„Mohol by vás uštipnúť, “ varovala ju Alica, lebo ani
+najmenej netúžila po tom, aby to Vojvodkyňa skúsila.
+
+„To je pravda,“ povedala Vojvodkyňa, „horčica a pla-
+meniaky štípu. Z čoho plynie ponaučenie: Vrana k vrane
+sadá, rovný rovného si hľadá.“
+
+„Ibaže horčica nie je vták,“ podotkla Alica.
+
+„Správne ako zvyčajne,“ povedala Vojvodkyňa. „Ako
+jasne sa vyjadruješ.“
+
+„Je to nerast, ak sa nemýlim,“ pokračovala Alica.
+
+„Isteže,“ povedala Vojvodkyňa, ktorá sa zrejme rozhod-
+la súhlasiť so všetkým, čo Alica povie. „Tu neďaleko je veľká
+horčičná baňa. A z toho plynie ponaučenie: Aj najväčšia
+baňa sa raz preberie.“
+
+„Už viem!“ poslednú vetu Alica ani nepočula. „Je to
+rastlina. Nevyzerá ako rastlina, ale je to rastlina.“
+
+„Celkom s tebou súhlasím,“ povedala Vojvodkyňa, „a
+z toho plynie ponaučenie: Buď taká, aká by si sa chcela
+zdať. Alebo ak chceš, aby som to povedala jednoduchšie:
+Nikdy si nepredstavuj , že si iná, než aká by si sa mohla zdať
+iným, a že to, aká si, bola si či mohla si byť, bolo iné než to,
+aká by si sa bola mohla zdať iným.“
+
+76
+
+Príbeh Falošnej korytnačky
+
+„Azda by som to lepšie pochopila,“ povedala Alica veľmi
+zdvorilo, „keby som si to napísala. Keď mi to takto vravíte,
+celkom tomu nerozumiem.“
+
+„To je ešte nič v porovnaní s tým, ako by som ti to vedela
+povedať, keby som chcela,“ odpovedala natešená Vojvod-
+kyňa.
+
+„Len sa, prosím vás, neunúvajte povedať mi to ešte
+obšírnejšie,“ prosila Alica.
+
+„Aké unúvanie!“ povedala Vojvodkyňa. „Všetko, čo
+som doteraz povedala, ti dávam do daru.“
+
+„To je veru lacný dar!“ pomyslela si Alica. „Ešte dobre,
+že sa také dary nedávajú na narodeniny!“ Ale nahlas sa to
+neodvážila povedať.
+
+„Zasa rozmýšľaš?“ spýtala sa Vojvodkyňa a znova sa
+zaryla špicatou bradou do Alicinho pleca.
+
+„Mám právo rozmýšľať,“ povedala Alica ostrým hlasom,
+lebo Vojvodkyňa ju už začínala dožierať.
+
+„To je asi také právo,“ povedala Vojvodkyňa, „aké majú
+prasce na lietanie; a z toho plynie ponau —“
+
+Vtom Vojvodkyni, na Alicino veľké prekvapenie, zamre—
+li slová na perách, obľúbené slovo ,ponaučenie' už nedopo-
+vedala a ruka, ktorá ju držala pod pazuchou, sa chvela. Alica
+zodvihla hlavu a pred nimi stála Kráľovná so založenými
+rukami a mračila sa ani pred búrkou.
+
+„Aký krásny deň, vaša Výsosť,“ začala Vojvodkyňa
+tichým hlasom.
+
+„Naposledy vás varujem,“ zrúkla Kráľovná a dupla
+nohou, „alebo zmiznete vy, alebo vaša hlava - ato skôr ako
+narátam do troch! Tak si vyberte!“
+
+Vojvodkyňa si vybrala, a už jej nebolo.
+
+„Pokračujme v hre,“ povedala Kráľovná Alici; tá sa od
+strachu nezmohla ani na slovíčko, len pomaly kráčala za
+Kráľovnou na kroketové ihrisko.
+
+Ostatní hostia využili Kráľovninu neprítomnosť a odpočí—
+vali v tieni. Len čo ju zazreli, ozlomkrky sa vracali k hre.
+
+77
+
+Alica v krajine zázrakov
+
+Kráľovná idúcky utrúsila, že kto sa čo len o sekundu
+oneskorí, príde o život.
+
+Hrali teda ď ale j. Kráľovná sa neprestajne hádala s hráčmi
+a vykrikovala: „Zotnite mu hlavu!“ a „Zotnite jej hlavu!“
+Tých, nad ktorými vyniesla ortieľ, vojaci hneď zatýkali,
+atak, pravdaže, nemohli robiť bránky - takže po polhodine
+alebo tak nejako nebolo na ihrisku ani jednej bránky a všetci
+hráči okrem Krála, Kráľovnej a Alice sedeli vo väzení,
+odsúdení na smrť.
+
+Kráľovná, celá zadychčaná, nechala hru tak a spýtala sa
+Alice: „Videla si už Falošnú korytnačku?“
+
+„Nie,“ povedala Alica, „ani neviem, čo to je - Falošná
+korytnačka.“
+
+„Robí sa z nej falošná korytnačia polievka,“ vysvetľovala
+Kráľovná.
+
+„Nikdy som ju nevidela, ani o nej nepočula,“ povedala
+Alica.
+
+„Poď, ideme za ňou,“ povedala Kráľovná, „nech ti
+rozpovie svoj príbeh.“
+
+ 
+
+Príbeh Falošnej korytnačky
+
+Keď odchádzali, Alica ešte začula Kráľa, ako vraví tichým
+hlasom: „Všetkým udeľujem milosť.“ „No, aspoň to,“
+povedala si, lebo z toľkých popráv, čo nariadila Kráľovná,
+bola už celá nešťastná.
+
+[čoskoro natrafili na Grifóna; spal na slnku. (Ak neviete,
+ako vyzerá Grifón, pozrite si ho na obrázku.) „Vstávaj,
+leňoch,“ povedala Kráľovná, „a zaveď túto slečinku k F aloš—
+nej korytnačke, nech jej rozpovie svoj príbeh. Ja sa musím
+vrátiť, aby som dozrela na niekoľko popráv, ktoré som
+nariadila.“ Odišla a nechala Alicu s Grifónom osamote.
+Alici sa neveľmi páčilo to čudné stvorenie, no usúdila, že
+zostať s ním nie je o nič nebezpečnejšie než ísť za tou
+zlostnou Kráľovnou. A tak čakala, čo bude ďalej.
+
+Grifón si sadol a pretieral si oči. Sledoval Kráľovnú, kým
+nezmizla, a potom sa uškrnul: „Je na smiech,“ povedal
+spola sebe, spola Alici.
+
+„Kto je na smiech?“ spýtala sa Alica.
+
+„Kto? Nuž ona!“ povedal Grifón. „To všetko si iba
+namýšľa. Veď oni aj tak nikdy nikoho nepopravia. Tak
+poď!“
+
+„Tu je každý samé ,Poď!“ pomyslela si Alica a vliekla sa
+za ním. „V živote mi nik toľko nerozkazoval!“
+
+Prešli kúsok a hned neďaleko zazreli Falošnú korytnačku,
+ako sedí smutná a opustená na skalisku. Keď podišli bližšie,
+počula ju Alica vzdychať, akoby jej malo srdce puknúť.
+Veľmi jej bolo Korytnačky ľúto. „Prečo sa tak trápi?“
+spýtala sa Grifóna. A Grifón jej odpovedal skoro tými istými
+slovami ako pred chvíľou: „To si iba namýšľa, veď nijaký
+žiaľ nemá. Poď!“
+
+Falošná korytnačka si ich prezerala veľkými zaslzenými
+očami, ale nič nevravelaJ
+
+„Táto slečinka, rozumieš,“ vraví jej Grifón, „by si rada
+vypočula tvoj pn'beh.“
+
+„Porozprávam jej ho,“ ozvala sa Falošná korytnačka
+hlbokým, dutým hlasom. „Sadnite si obaja, no kým neskon-
+čím, nechcem počuť ani slovo.“
+
+79
+
+Alica v krajine zázrakov
+
+Tak si sadli a chvíľu bolo ticho. Alica si pomyslela:
+„Neviem, ako chce skončiť, ked ani nezačala.“ Ale trpezlivo
+čakala.
+
+„Kedysi,“ povedala napokon Falošná korytnačka a hl—
+boko si vzdychla, „som bola pravá Korytnačka.“
+
+A znova nastalo dlhé ticho, tu a tam ho narušilo iba
+Gn'fónovo hdžkŕŕŕ! a Korytnačkino sr'dcervúce vzlykanie.
+
+Alica už-už chcela vstať a povedať: „Ďakujem vám za váš
+zaujímavý príbeh,“ ale akosi sa nevedela striasť myšlienky,
+že to ešte nie je všetko, tak len ticho sedela a mlčala'.
+
+„Keď sme boli malí,“ pokračovala konečne Falošná
+korytnačka, teraz už pokojnejšie, aj keď z času na čas ešte
+zavzlykala, „chodili sme do morskej školy. Učila nás tam
+stará korytnačka a my sme ju nazvali Nazučila.“
+
+„Prečo ste ju volali Nazučila, keď to nebola Nazučila?“
+spýtala sa Alica.
+
+„No preto, lebo nás učila, ty hlupaňa!“ zlostila sa Falošná
+korytnačka.
+
+„Hanbil by som sa pýtať na také samozrejmosti,“ dodal
+Grifón a potom obaja mlčky sedeli a hľadeli na chuderu
+Alicu, ktorá by sa bola najradšej pod zem prepadla.
+Napokon riekol Grifón Korytnačke: „Tak do toho, starká.
+Nech to netrvá celý deň,“ a Falošná korytnačka pokračo—
+vala:
+
+„Chodili sme teda do školy v mori, aj keď mi to možno
+neuveríte -“
+
+„Nepovedala som, že vám neverím,“ prerušila ju Alica.
+
+„Povedala,“ tvrdila Falošná korytnačka.
+
+„Ty čuš!“ okríkol Grifón Alicu, skôr ako otvorila ústa.
+Falošná korytnačka pokračovala.
+
+fĎostali sme to najlepšie vzdelanie — veď si len predstav-
+te, chodili sme do školy každý deň.“
+
+„Aj ja som chodila do školy každý deň,“ povedala Alica.
+„Tak sa tým toľko nechvascite!“
+
+„A mali ste aj nepovinné predmety?“ neistým hlasom sa _
+spýtala Falošná korytnačka.
+
+80
+
+Alica v krajine zázrakov
+
+„Mali sme,“ povedala Alica, „francúzštinu a hudobnú
+výchovu.“
+
+„A bielizeň?“ spýtala sa Korytnačka.
+
+„To nie,“ ohradila sa Alica.
+
+„Och, tak tá vaša škola za veľa nestála!“ Falošnej
+korytnačke sa očividne uľavilo. „V našej škole bolo pri
+platení školských poplatkov jasne uvedené: francúzština,
+hudobná výchova a bielizeň -— zvláštny príplatok.“
+
+„Ale veď bielizne ste vela nepotrebovali,“ namietla Alica,
+„keď ste žili na morskom dne.“
+
+„Však som si to ani nemohla dovoliť,“ vzdychla si Falošná
+korytnačka. „J a som chodila iba na povinné predmety.“
+
+„To boli ktoré?“ vyzvedala sa Alica.
+
+„No predovšetkým pichanie a číhanie,“ odpovedala
+Korytnačka, „a potom aritmetika a rozličné počtové úkony,
+ako je štípanie, odtínanie, nasolenie a deseniřý
+
+„O nasolení som ešte nepočula,“ odvážila sa povedať
+Alica. „Čo je to?“
+
+Grifón od úžasu zdvihol laby. „Ty si ešte nepočula
+o nasolení?!“ vykríkol. „Ale čo je nacukrenie, to dúfam
+vieš?“
+
+„Áno,“ povedala Alica váhavo, „to je — keď sa niečo
+posype cukrom.“
+
+„Správne. Ak ešte ani teraz nevieš, čo je to nasolenie,
+tak si obyčajný truľo,“ povedal Grifón.
+
+Alica už nemala odvahu klásť ďalšie otázky, tak sa znova
+obrátila na Falošnú korytnačku: „Čo ste sa ešte učili?“
+
+„No, ešte sme mali hystériu,“ rátala Korytnačka na
+labách, „hystériu starovekú a novovekú, morepis, ďalej
+kriesenie — to nás učil starý úhor, chodieval iba raz do
+týždňa —- a mali sme aj lisovanie a spaľovanie.“
+
+„Čo ste robili na jeho hodinách?“
+
+„To ti ja už ťažko ukážem,“ povedala Falošná korytnačka.
+„Na to som už trocha neohybná. A Grifón sa to neučil.“
+
+„Nemal som čas,“ povedal Grifón. „Ja som sa viac
+venoval klasickým jazykom; u toho starého kraba.“
+
+82
+
+Príbeh Falošnej korytnačky
+
+„K tomu som ja vôbec nechodila,“ povedala Falošná
+korytnačka a vzdychla si. „Vraj vyučovegsätinu a škreč-
+tinu._“ “
+
+w„Vyučoval, vyučoval, to hej,“ povedal Grifón, pre zmenu
+si vzdychol zasa on a obaja si zakryli tváre labami.
+
+„A koľko hodín denne ste mali?“ spýtala sa Alica, aby
+obrátila reč na iné.
+
+„Prvý deň desať hodín,“ povedala Falošná korytnačka,
+„druhýdeň deväťa tak ďalej.“
+
+„Aké čudné vyučovanie!“ zvolala Alica.
+
+„Prečo čudné? Veď vyučovanie, to je vlastne vylučova—
+nie,“ vysvetľoval Grifón, „každý deň vylúčite jednu hodinu,
+a tak si pekne vylučujete, a čím viac vylučujete, tým
+rýchlejšie vyučujete, chápeš už?“
+
+To bola pre Alicuíelkom nová myšlienka. Chvíľu o nej
+rozmýšľala a zrazu vyhŕkla: „Jedenásty deň ste mali teda
+voľno?“
+
+„Pravdaže,“ povedala Falošná korytnačka.
+
+„A čo ste robili dvanásty deň?“ vyzvedala sa Alica.
+
+„Dosť už o vyučovaní,“ rázne zasiahol Grifón. „Teraz jej
+povedz niečo o tom, ako ste sa hrali.“
+
+% tenth chapter
+\section{\addfontfeature{Letters=SmallCaps}Račia štvorylka}
+
+,ALOŠNÁ korytnačka si sťažka vzdychla a opakom
+laby si pretrela oči. Pozrela na Alicu a chcela niečo
+povedať, ale plač ju celkom zadúšal. „Akoby jej kósť
+zaskočila,“ povedal Grifón a začal ju triasť a búchať do
+chrbta. Napokon predsa len našla reč a so zaslzenou tvárou
+rozprávala:
+
+„Ty si v mori asi dlho nežila,“ („To veru nie,“ povedala
+Alica) „a s Rakom si sa pravdepodobne nikdy nezoznámi-
+la,“ (Už-už chcela Alica podotknúť: „Raz som jedného
+ochutnala,“ ale vzápätí sa zháčila: „Nie, nikdy.“) „a tak
+nemáš potuchy, aká krásna je račia štvorylka.“
+
+„Nie, nemám,“ prisvedčila Alica. „Aký je to tanec?“
+
+„No, to sa tanečníci najprv postavia na pobreží do radu,“
+ozval sa Grifón.
+
+„Do dvoch radov!“ skríkla Falošná korytnačka. „Tulene,
+korytnačky, lososy a tak dalej. Potom sa odpracú z cesty
+všetky medúzy —“
+
+„Zvyčajne to chvíľu trvá,“ skočil jej do reči Grifón.
+
+„— urobia sa dva kroky vpred —“
+
+„Za tanečníka má každý morského raka!“ skríkol
+Grifón.
+
+„To je jasné,“ povedala Falošná korytnačka. „Dva kroky
+vpred so svojím tanečníkom —“
+
+„— potom sa tanečníci vymenia a cúvne sa dva kroky
+vzad,“ pokračoval Grifón.
+
+„Potom, chápeš,“ pokračovala Falošná korytnačka, „sa
+hodia —“
+
+„Raky!“ skríkol Grifón a vyskočil.
+
+„— čo najďalej do mora —“
+
+84
+
+ 
+
+Račín štvorylka
+
+„A pláva sa za nimi!“ zvreskol Grifón.
+
+„V mori sa urobí kotrmelec!“ skríkla Falošná korytnačka
+a skákala ako divá.
+
+„Raky sa znova vymenia!“ reval Grifón z plného hrdla.
+
+„Pláva sa naspäť na breh a — to je prvá figúra,“ povedala
+Falošná korytnačka a hlas sa jej náhle zlomil; obe stvorenia,
+čo do tej chvíle vyvádzali ani pojašené, sedeli tu odrazu
+zasa smutné a tiché a pozerali na Alicu.
+
+„Je to iste veľmi pekný tanec,“ bojazlivo sa ozvala
+Alica.
+
+„Chcela by si aspoň kúsok z neho vidieť?“ spýtala sa
+Falošná korytnačka.
+
+„Veľmi rada,“ povedala Alica.
+
+„Skúsme teda prvú figúru,“ povedala Falošná korytnačka
+Grifónovi. „Bez rakov sa hádam aj zaobídeme. Kto bude
+spievať?“
+
+„Spievaj ty,“ povedal Grifón. „Ja som zabudol slová.“
+
+A tancovali vážne okolo Alice, a keď prechádzali p0pri
+nej, stúpali jej na prsty, prednými labami si udávali tempo
+a Falošná korytnačka ťahavo, smutne spievala:
+
+„Pridaj, slimák, do kroku!“ belica mu ruku zviera.
+„Delfín za mnou sa tak náhli, že mi päty dooškiera.
+Pozri, ako sa sem zbehli —- korytnačky, morské raky,
+všetci si chcú zatancovať, a nie tanec hocijaký. “
+
+Pôjdeš, alebo nepôjdeš do tanca s nimi?
+Pôjdeš, alebo nepôjdeš tancovať?
+Pôjdeš, alebo nepôjdeš. do tanca s nimi?
+Pôjdeš, alebo nepôjdeš tancovať?
+
+„Spolu s rokmi ťa tu zdvihnú, vyhodia na šíre more.
+Aká rozkoš, aké blaho, vyletieť tak zrazu hore!“
+„Tak ďaleko?“ váha slimák. „ Tak ďaleko sa ja bojim. “
+
+A že nechce, že ďakuje, že on a tanec nestojí.
+
+85
+
+ 
+
+Alica v krajine zázrakov
+
+Že nepôjde, že nemôže do tanca s nimi,
+že nepôjde, že nemôže tancovať.
+Že nepôjde, že nemôže do tanca s nimi,
+že nepôjde, že nemôže tancovať.
+
+„Aká dialka? Čo ťa mata?“ šupinata' družka na to.
+„Breh je aj na tamtej strane, s pieskom ako čisté zlato;
+ak si ďalej od jídnebo, druhý breh je o to bližší, _
+nuž'nebledni, milý slimák, zatancovať sme si prišli.“
+
+Pôjdeš, alebo nepôjdeš do tanca s nami,
+pôjdeš, alebo nepôjdeš tancovať?
+Pôjdeš, alebo nepôjdeš do tanca s nami,
+pôjdeš, alebo nepôjdeš tancovať?
+
+„Ďakujem, na pohľad je to veľmi zaujímavý tanec,“
+vydýchla si Alica, že už konečne skončili. „A tá zvláštna
+pieseň o belici sa mi veľmi páči.“
+
+„Ach, belica,“ vzdychla si Falošná korytnačka, „ predpo—
+kladám, že belicu poznáš?“
+
+„Áno,“ povedala Alica, „často som ich vídala pri obe -“
+no ešte včas sa zarazila.
+
+„Neviem, kde leží Ob,“ povedala Falošná korytnačka,
+„ale keď si ich tak často vídala, iste vieš, ako vyzerajú?“
+
+„No — áno,“ odpovedala Alica zamyslene. „Chvostíky
+majú v papuľke — a celé sú posypané strúhankou.“
+
+„S tou strúhankou to nie je pravda,“ povedala Falošná
+korytnačka, „more by im ju zmylo. Ale cthstíky — tie majú
+naozaj v papuľke, a to preto, lebo —“ vtom Falošná
+korytnačka zívla a zatvorila oči.
+
+„Povedz jej prečo a všetko ostatné,“ obrátila sa na
+Grifóna.
+
+„Preto, lebo chceli tancovať s morskými rakmi,“ povedal
+Grifón. „A tak ich hodili do mora. A tak padali hrozne,
+hrozne dlho. A tak si chvostíky vopchali do papuľky. A tak
+si ich už nemohli vytiahnuť. A tak to už vieš.“
+
+86
+
+Račín šlvorylka
+
+„Ďakujem,“ povedala Alica, „je to veľmi zaujímavé.
+Doteraz som o beliciach veľa nevedela.“
+
+„Ak chceš, poviem ti o nich viac,“ povedal Gn'fón. „Vieš
+napríklad, prečo sa volajú belice?“ .
+
+„Nikdy som o tom nerozmýšľala,“ povedala Alica.
+„Prečo?“
+
+„Lebo sa nimi leštia topánky a čižmy,“ smrteľne vážne
+povedal Grifón.
+
+Alicu to zmiatlo. „Topánky a čižmy?“ opakovala začudo—
+vane.
+
+„No — a ty si čím leštíš topánky?“ spýtal sa Grifón. „No
+— od čoho sa ti ligocú?“
+
+Alica si pozrela na topánky a chvíľu uvažovala. „Myslím,
+že od černidla.“
+
+„Nuž a pod morom sa topánky leštia bielidlom — bielid-
+lom z belíc,“ dodal Grifón hlbokým hlasom. „Tak už to
+
+Vies.“
+
+„A z čoho sa tam topánky vyrábajú?“ spýtala sa Alica
+zvedavo.
+
+„Z podustiev a z úhorov, z čoho iného?!“ podráždene
+jej odpovedal Grifón. „To vie každý morský rak.“ '
+
+„Keby som ja bola belica,“ odpovedala Alica, ktorej ešte
+chodila po rozume tá pieseň, „povedala by som slimákovi:
+Keď máš strach, uteč - a rýchlo! Nechceme ťa tu! Načo sa
+toľko prosiť?“
+
+„Vylúčené,“ povedala Falošná korytnačka. „Aj tak by
+neušiel.“
+
+„Ako to môžete vedieť?“ čudovala sa Alica.
+
+„Čo sa vlečie, neutečie,“ riekla Falošná korytnačka.
+„Nepoznáš to porekadlo? No a slimák sa predsa vlečie,
+nie?“
+
+Kým Alica nad tým uvažovala, ozval sa Grifón:
+
+„Teraz nám porozprávaj ty niečo zo svojich dobrodruž-
+stiev!“
+
+„Mohla by som vám rozprávať, aké dobrodružstvá som
+zažila — ale iba od dnešného rána,“ nesmelo povedala
+
+87
+
+Alica v krajine zázrakov
+
+Alica, „rozprávať o včerajšku nemá zmysel, včera som bola
+celkom iná osoba.“
+
+„To nám musíš vysvetliť,“ povedala Falošná koryt-
+načka.
+
+„Nie, nie! Najprv dobrodružstvá,“ netrpezlivo nástojil
+Grifón, „vysvetľovanie vždy trvá veľmi dlho.“
+
+A tak im Alica začala rozprávať, čo zažila od chvíle, keď
+po prvý raz zbadala Bieleho králika. Spočiatku bola trochu
+nervózna, lebo obe stvorenia sa na ňu tlačili, každé z jednej
+strany, s vypleštenými očami a ústami dokorán, ale potom
+sa spamätala. Poslucháči ani nemukli, kým nedošla k tomu,
+ako recitovala Húseničiakovi báseň Starý ste, otče…, ale
+po jazyku sa jej plietli akési iné slová. Tu saFalošná korytnač—
+ka zhlboka nadýchla & povedala: „To je akési čudné!“
+
+„Čudnejšie to už ani nemôže byť,“ povedal Grifón.
+
+„Všetky slová poplietla,“ zamyslene povedala Falošná
+korytnačka. „Mala by skúsiť aj nám niečo zarecitovať.
+Povedz jej, nech začne!“ A pozrela na Grifóna, akoby ten
+mal nad Alicou nejakú moc.
+
+„Vstaň a zarecituj nám Do trnava ma uvarih',“ povedal
+Grifón.
+
+„Tieto stvorenia by ustavične len rozkazovali,“ pomyslela
+si Alica. „Nútia človeka odriekať úlohy — celkom ako
+v škole.“ Voľky-nevoľky vstala a začala recitovať, no hlavu
+mala ešte vždy plnú račej štvorylky, takže ani nevedela, čo
+vraví, a aj tieto verše zneli akosi čudne:
+
+Do trnava ma uvarili, ej, veru tak,
+
+spieva si na morskom brehu udatný Rak.
+Teraz nech mi vlasy cukria čistým prosom,
+gombičky a remeň si viem zrovnať nosom,
+ako kačky parádnice, ej, veru tak,
+
+tak budem vykrúcať špice, nie naopak.
+
+Veselí sa v suchom piesku udatný Rak,
+od žraloka pohŕdavo odvracia zrak.
+
+88
+
+Alica v krajine zázrakov
+
+Až keď príliv znova začne máčať skaly,
+trasie sa is klepetami celkom malý.
+Žraloka si opäť cení náš milý Rak,
+najmä keď je nevarený, ej, veru tak.
+
+„Neznie to tak, ako som sa to učil za mladi,“ povedal
+Grifón.
+
+„Ja som tú báseň v živote nepočula,“ povedala Falošná
+korytnačka, „ale je to číry nezmysel.“
+
+Alica nepovedala nič, sedela s tvárou v dlaniach a roz-
+mýšľala, či okolo nej bude ešte niekedy niečo normálne
+a prirodzené.
+
+„Keby mi to niekto vysvetlil. . .“ nadhodila Falošná
+korytnačka.
+
+„Ona to nevie vysvetli ,“ prerušil ju Grifón. „Zarecituj
+inú báseň!“
+
+„Ale ako je to s tými gombičkami?“ nástojila Falošná
+korytnačka. „Ako sa zrovnávajú nosom?“
+
+„To je základný postoj pn' tanci,“ povedala Alica, lebo
+bola z toho už celkom popletená a chcela to nejako
+zahovoriť.
+
+„Zarecituj inú báseň!“ opakoval Grifón. „Tú, ktorá sa
+začína Čo všeličo človek vidí.“
+
+Alica sa neodvážila odporovať, hoci vedela, že sa to zasa
+nevydarí, a tak recitovala traslavým hlasom:
+
+Čo všeličo človek vidí, keď po sade chodí:
+
+tuhľa Pardál so Sovou si prichystali hody.
+
+Mäso, kôrka, šťava z mäsa - všetko podľa manier
+zožral Pardál; Sove zostal iba prázdny tanier.
+Dovolil jej spratať príbor — keď nebolo ině —
+
+a do vrecka mu ho vopchať — ako po hostine.
+Keď zazrel nôž a vidlička, dostal vám hlad znovu,
+zavrčal a s chuťou zožral i chuderu — - -
+
+„Recitovať také táraniny nemá zmysel,“ prerušila ju
+
+90
+
+Račín štvorylkn
+
+Falošná korytnačka, „keď nám to poriadne nevysvetlíš!
+V živote som nepočula bláznivejšie verše.“
+
+„Vari naozaj s tým radšej prestaň,“ povedal Grifón
+a Alica mu veľmi rada vyhovela.
+
+„Čo keby sme skúsili druhú figúru račej štvorylky?“
+navrhoval Grifón. „Alebo ti má Falošná korytnačka niečo
+zaspievať?“
+
+„Áno, zaspievať, zaspievať, ak bude Falošná korytnačka
+taká láskavá,“ prosila Alica tak žiadostivo, že Grifón
+povedal urazene: „Hm. Proti gustu žiaden dišputát. Zaspie-
+vaj jej teda ódu na polievku, starká!“
+
+Falošná korytnačka si zhlboka vzdychla, a hoci sa
+zadúšala od plaču, začala spievať:
+
+„ó, moku nebeský! Hustá a zelená
+čakáš ma horúca v náručí taniera.
+Komu by pred tebou neklesli kolená?
+Ktože ti odolá, kráľovská večera?
+Hustá a zelená voniaš mi z taniera.
+
+ 
+
+ó, polievka! 0- 6, polievka!
+Nič lepšie nepoznám.
+O, polievka! 0- -ó, polievka!
+Kto postaví ti chrám?
+
+ó, moku nebeský! Kto raz ťa okúsi,
+zabudne na ryby, na misy s divinou,
+posledný halier dá, veď v jeho oku si
+odteraz jedinou vábivou vidinou.
+Kto raz ťa okúsi, pohrdne divinou.
+
+ó, polievka! Ď-ó, polievka!
+Nič lepšie nepoznám.
+
+ó, polievka! ó-ó, polievka!
+Kto postaví ti chrám?“
+
+91
+
+„Refrén ešte raz!“ skríkol
+Grifón a Falošná korytnačka práve
+začala, keď sa v diaľke ozvalo:
+
+„Pojednávanie sa začína!“
+
+„Poď!“ skríkol Grifón, zdrapil
+Alicu za ruku a ťahal ju preč, ani
+nevyčkal koniec piesne.
+
+„A čo je to za súd?“ spýtala sa
+Alica zadychčaným hlasom, ale
+Grifón povedal len: „Pod!“ a bežal
+ešte rýchlejšie. S vánkom k nim
+z diaľky doletovala čoraz slabšia
+ozvena melancholického refrénu:
+
+„ Č, polievka! ó-ó, polievka!
+Kto postaví ti chrám?“
+
+% eleventh chapter
+\section{\addfontfeature{Letters=SmallCaps}Kto ukradol koláče?}
+
+B EĎ ta prišli, Srdcový kráľ so Srdcovou kráľovnou
+už sedeli na tróne a okolo nich sa hrčil veľký dav
+
+- všakovaké drobné vtáctvo, zvieratká a všetky karty.
+V popredí stál Dolník, ruky v reťaziach, po boku vojaci,
+ktorí ho strážili. Pri Kráľovi stál Biely králik, v jednej ruke
+držal trúbku, v druhej pergamenový zvitok. Uprostred
+súdnej siene bol stôl a na ňom veľká misa koláčov. Vyzerali
+také chutné, že sa Alici začali Sliny zbiehať. „Keby už bolo
+po pojednávaní,“ pomyslela si, „a podávalo sa občerstve-
+nie!“ Zatiaľ to nebolo na programe, nuž sa obzerala okolo
+seba, aby jej čas rýchlejšie ubehol.
+
+Na súde Alica ešte nebola, ale o pojednávaniach čítala
+v knihách a veľmi ju tešilo, keď zistila, že vie, ako sa čo volá.
+„Toto je sudca,“ povedala si, „lebo má veľkú parochňu!“
+
+Sudcom, mimochodom, bol Kráľ; a keďže korunu si
+založil na parochňu, necítil sa veľmi pohodlne, ba ani mu to
+veľmi nepristalo.
+
+„Toto je lavica pre porotcov,“ pomyslela si Alica, „a tých
+dvanásť stvorení (musela ich nazvať stvoreniami, lebo boli
+medzi nimi zvieratá aj niekoľko vtákov), to sú zrejme
+porotcovia.“ Posledné slovo si zopakovala dva i tri razy
+a bola hrdá, lebo si myslela — a oprávnene -, že iba veľmi
+málo dievčat v jej veku pozná zmysel tohto slova. Ale takisto
+by sa mohlo povedať členovia poroty.
+
+Dvanásť porotcov usilovne písalo na bridlicové tabuľky.
+
+„Čo to píšu?“ šepkala Alica Grifónovi. „Pojednávanie
+sa ešte nezačalo, tak nemajú čo zapisovať.“
+
+„Zapisujú si svoje mená,“ pošepkal jej Grifón, „le-
+
+93
+
+Alica v krajine zázrakov
+
+bo sa boja, že ich zabudnú skôr, ako sa pojednávanie
+skončí.“
+
+„Chumaji!“ rozhorčene vybuchla Alica, ale hneď stíchla,
+lebo Biely králik zavolal: „Ticho v súdnej sieni!“ a Kráľ si
+založil okuliare a prezeral si miestnosť, aby zistil, kto sa to
+ozval.
+
+Alica videla, ani čo by im hľadela ponad plecia, že všetci
+porotcovia si zapisujú na bridlicové tabuľky slovo ,chumaji“,
+jeden z nich dokonca nevedel, či sa ,chumaji' píšu na konci
+s mäkkým ,i“, alebo s tvrdým ,y', a pýtal sa na to suseda.
+„Kým sa pojednávanie skončí, budú na tých tabuľkách
+pekné nezmysly,“ pomyslela si Alica.
+
+Jeden porotca mal grifeľ , ktorý škrípal. Alica to nezniesla,
+obišla teda sieň, stala si mu za chrbát a pri najbližšej
+príležitosti mu grifeľ vzala. Urobila to tak šikovne, že
+chudák porotca (bol to jašteričiak Vilo) vôbec nechápal, čo
+sa stalo. Chvíľu grifeľ márne hľadal a zvyšok pojednávania
+si potom zapisoval prstom. Nebolo to, pravdaže, na nič,
+lebo na tabuľke to nebolo poznať.
+
+„Hlásatel', prečítajte obžalobu!“ povedal Kráľ.
+
+Biely králik tri razy zatrúbi], rozvinul pergamenový zvitok
+a čítal:
+
+„Srdcová kráľovná napiekla koláčov
+
+s makom a tvarohom,
+
+Srdcový dolník ich uchmatol z pekáčov
+a zmizol za rohom. “
+
+„Poraďte sa o rozsudku,“ povedal Kráľ porote.
+
+„Ešte nie, ešte nie!“ náhlivo mu skočil do reči Králik.
+„Predtým treba ešte prerokovať veľa otázok.“
+
+„Tak predvolajte prvého svedka,“ povedal Kráľ; Biely
+králik zatrúbi] a zvolal: „Prvý svedok!“
+
+Prvým svedkom bol Klobučník. Vošiel do súdnej siene
+v jednej ruke so šálkou čaju, v druhej s krajcom maslového
+chleba. „Prosím vašu výsosť o prepáčenie,“ začal, „že
+
+94
+
+Kto ukradol koláče?
+
+prichádzam takto, ale prišli po mňa a ja som sa nestihol
+naolovrantovať.“
+
+„Olovrant si ešte mal stihnúť,“ povedal Kráľ. „Kedy si
+začal olovrantovať?“
+
+Klobučník pozrel na Aprílového zajaca, ktorý šiel s ním až
+na súd a popod pazuchu viedol Sedmospáča. „Ak sa
+nemýlim, bolo to štrnásteho apríla,“ povedal.
+
+„Pätnásteho,“ povedal Aprílový zajac.
+
+„Šestnásteho,“ povedal Sedmospáč.
+
+„Zapíšte to!“ povedal Kráľ porote; porotcovia si blesku-
+rýchle poznačili na tabuľky všetky tri dátumy, sčítali ich"
+a výsledok prerátali na koruny a haliere.
+
+„Klobúk dolu!“ povedal Kráľ Klobučníkovi.
+
+„Nie je môj!“ povedal Klobučník.
+
+„Ukradnutý!“ zvolal Kráľ; porotcovia na jeho pokyn
+ihned spísali zápisnicu.
+
+„Ja klobúky predávam,“ dodal Klobučník na vysvetlenie.
+„Sám nijaký nemám. Som Klobučník.“
+
+Tu si Kráľovná založila okuliare a premerala si Klobuční-
+ka tak prísne, že pobledol a znervóznel.
+
+„Vypovedaj!“ povedal Kráľ. „A netras sa, lebo ťa dám
+na mieste popraviť.“
+
+Kráľov výrok podľa všetkého nedodal svedkovi odvahy;
+jednostaj prešľapoval z nohy na nohu, celý vyľakaný hľadel
+na Kráľovnú a taký bol popletený, že namiesto z maslového
+chleba si odhryzol zo šálky. V tej chvíli premkol Alicu čudný
+pocit; hodnú chvíľu nevedela, čo je na príčine, napokon na
+to prišla: znova sa zväčšovala. Najprv chcela vstať a odísť zo
+sály, no potom sa rozhodla, že zostane, pokým tam bude mať
+dosť miesta.
+
+„Netlač sa tak!“ povedal Sedmospáč, ktorý sedel vedľa
+nej.
+
+„Nemôžem si pomôcť,“ povedala Alica skrúšene, „ras-
+tiem.“
+
+„Tu nemáš čo rásť,“ povedal Sedmospáč.
+
+95
+
+Alica v krajine zázrakov
+
+„Netáraj nezmysly,“ povedala Alica smelšie, „dobre vieš,
+že aj ty rastieš.“
+
+„Áno, ale ja rastiem rozumne,“ povedal Sedmospáč, „nie
+takou šialenou rýchlosťou.“ Namrzený vstal a prešiel na
+druhú stranu súdnej siene.
+
+Kráľovná po celý čas uprene hľadela na Klobučníka,
+a práve keď sa Sedmospáč predieral sieňou, povedala
+jednému súdnemu zriadencovi: „Prines mi zoznam spevá-
+kov z posledného koncertu!“ Nato sa nešťastný Klobučník
+tak roztriasol, že si striasol topánky z nôh.
+
+„Vypovedaj!“ opakoval Kráľ nahnevane. „Lebo ťa dám
+popraviť, či už máš strach, alebo nie.“
+
+„Ja som taký úbohý človek, vaša výsosť,“ začal Klobučník
+roztraseným hlasom, „ani ten čaj som nestihol dopiť - je to
+vari týždeň alebo tak nejako — ani dojesť maslový chlieb, je
+ho čoraz menej — a tie o—o—opletačky s olovrantom.“
+
+„Aké o—o-opletačky?“ spýtal sa Kráľ.
+
+„Nuž tie, ktorými sa začal náš olovrant,“ odpovedal
+Klobučník.
+
+„Samozrejme, že ,olovranť sa začína na ,o',“ osopil sa na
+neho Kráľ. „Myslíš, že sa zhováraš s hlupákom? Hovor!“
+
+„Ja som taký úbohý človek,“ pokračoval Klobučník, „a
+všetky tie opletačky s olovrantom, ibaže Aprílový zajac
+povedal —“
+
+„Nepovedal,“ skočil mu do reči Aprílový zajac.
+
+„Povedal si!“ tvrdil Klobučník.
+
+„Popieram to!“ povedal Aprílový zajac.
+
+„On to popiera,“ povedal Kráľ. „Túto časť vyne—
+chajte!“
+
+„V každom prípade Sedmospáč povedal -“ pokračoval
+Klobučník a bojazlivo sa obzrel, či to aj SedmOSpáč
+nepoprie, ale ten nič nepoprel, spal ako zabitý.
+
+„Tak som si,“ pokračoval Klobučm'k, „odkrojil ešte
+chleba a natrel si ho maslom —“
+
+96
+
+Kto ukradol koláče?
+
+„Ale čo ten Sedmospáč povedal?“ spýtal sa jeden
+z porotcov.
+
+„Na to sa už nepamätám,“ povedal Klobučník.
+
+„Rozpamätaj sa,“ prikázal mu Kráľ, „inak ťa dám
+popraviť.“
+
+Nešťastný Klobučník pustil na zem šálku čaju i maslový
+chlieb a klesol na kolená: „Ja som taký úbohý človek, vaša
+výsosť —“ začal.
+
+„Najmä úbohý rečník,“ povedal Král.
+
+Akési morča skn'klo Sláva mu!, ale také prejavy súdni
+zriadenci ihned eliminovali. (Keďže je to dosť nezvyčajné
+slovo, vysvetlím vám, čo urobili.
+
+Mali plátenné vrece, ktoré sa
+zaväzovalo na motúzik.
+Morča doň strčili dolu
+hlavou a potom si
+
+naň sadli.)
+
+ 
+
+Alica v krajine zázrakov
+
+„Konečne som teda videla, ako sa to robí,“ pomyslela si
+Alica. „Neraz čítam v novinách, že na konci pojednávania
+,sa vyskytli ojedinelé prejavy súhlasu alebo nesúhlasu, ale
+súdni zriadenci ich ihneď eliminovali“, a doteraz som
+nevedela, čo sa za tým skrýva.“
+
+„Ak o tom už viac nevieš, môžeš zísť dolu,“ pokračoval
+Kráľ.
+
+„Nižšie to už nejde,“ povedal Klobučník, „stojím na
+dlážke.“
+
+„Tak si sadni,“ povedal Kráľ.
+
+A ďalšie morča skríklo Sláva mu!, no jeho prejav súhlasu
+ihneď eliminovali.
+
+„Morčatá sú teda odpísané,“ pomyslela si Alica. „Teraz
+to už iste pôjde rýchlejšie.“
+
+„Rád by som dokončil olovrant,“ povedal Klobučník
+a uprel bojazlivý pohľad na Kráľovnú, ktorá si prezerala
+zoznam spevákov.
+
+„Môžeš íst,“ povedal Kráľ a Klobučník vyletel zo súdnej
+siene, ani topánky si neobul.
+
+„ - a vonku mu hneď zotnite hlavu,“ obrátila sa Kráľovná
+na jedného dôstojníka, ale Klobučník sa stratil skôr, ako
+dôstojník došiel k dverám.
+
+„Predvolajte ďalšieho svedka,“ povedal Kráľ.
+
+Ďalším svedkom bola Vojvodkynina kuchárka. V ruke
+mala koreničku a Alica uhádla, kto je to, skôr než vkročila
+do siene, lebo všetci ľudia pri dverách sa rozkýchali.
+
+„Vypovedaj!“ vyzval ju Kráľ.
+
+„Ešteže čo,“ povedala kuchárka.
+
+Kráľ ustarostene pozrel na Bieleho králika a ten mu ticho
+povedal: „Vaša výsosť, túto svedkyňu musíte podrobiť
+
+krížovému výsluchu. “
+„Nuž, keď musím, tak musím,“ zatváril sa Kráľ melancho—
+
+licky, potom si založil ruky, zamračil sa na kuchárku, takže
+mu oči celkom zapadli, a zahučal: „Z čoho sa robia
+koláče?“
+
+„Zväčša z korenia,“ povedala kuchárka.
+
+98
+
+Kto ukradol koláče?
+
+„Z melasy,“ ozval sa za ňou ospanlivý hlas.
+
+„Zdrapte tam toho Sedmospáča za golier!“ skríkla
+Kráľovná. „Zotnite mu hlavu! Vyhodte toho plcha zo
+súdnej siene! Eliminujte ho! Doštípte ho! Vyšklbte mu
+fúzy!“
+
+Kým Sedmospáča vyhadzovali, bol v sieni obrovský
+zmätok, a ked konečne obnovili poriadok, kuchárky už
+nebolo.
+
+„Nič to zato,“ povedal král, akoby mu spadol kameň zo
+srdca. „Predveďte ďalšieho svedka!“ A polohlasne povedal
+Kráľovnej: „Drahá, tohto svedka musíte podrobiť krížové-
+mu výsluchu vy. Mňa z toho už rozbolela hlava.“
+
+Alica pozorovala Bieleho králika, ako sa nešikovne
+prehrabuje v spisoch, a bola veľmi zvedavá na dalšieho
+svedka, „— lebo veľa dôkazov ešte teda nemajú,“ povedala
+si. Viete si predstaviť, ako ju prekvapilo, keď Biely králik
+svojím piskľavým hlasom prečítal: „Ah'ca!“ '
+
+% twelfth chapter
+\section{\addfontfeature{Letters=SmallCaps}Alicina výpoveď}
+
+| U,“ skn'kla Alica taká rozčúlená, že celkom zabudla,
+
+„ aká veľká narástla v poslednej chvíli, a vyskočila tak
+
+prudko, že lemom sukne prevrátila lavicu pre porotu
+
+a všetkých porotcov vysypala divákom na hlavy; ako tam
+
+ležali a hrabali okolo seba, veľmi jej pripomínali guľaté
+
+akvárium so zlatými rybkami, ktoré pred týždňom nešťast-
+nou náhodou prevrhla.
+
+„Ach, prepáčte!“ zvolala celá vydesená a zbierala ich tak
+rýchlo, ako sa len dalo, lebo nehodu so zlatými rybkami mala
+ešte čerstvo zapísanú v pamäti a marilo sa jej, že ak ich čo
+najskôr nepozbiera a neposadí na lavicu pre porotu,
+zahynú.
+
+„Pojednávanie sa odkladá,“ povedal Kráľ veľmi vážne,
+„kým všetci porotcovia nebudú na svojich miestach - ale
+všetci,“ opakoval veľmi dôrazne a pri poslednom slove sa
+na Alicu zamračil.
+
+Alica pozrela na lavicu pre porotcov a zbadala, že v tej
+rýchlosti posadila Vila dolu hlavou a to chúďa, neschopné
+iného pohybu, teraz iba smutne kývalo chvostíkom. Ihneď
+ho vzala a posadila Správne; „Nie že by na tom bohvieako
+záležalo,“ povedala si, „veď či sedí tak, alebo onak,
+pojednávanie to nijako neovplyvní.“
+
+Len čo sa porotcovia trocha spamätali z otrasu a zriadenci
+im pozbierali postrácané tabuľky a grifle, usilovne sa dali do
+práce a celú nehodu dopodrobna zapisovali. Všetci okrem
+Vila, ktorý bol ešte taký otrasený, že iba sedel s otvorenými
+ústami a tupo zízal na povalu súdnej siene.
+
+„Čo vieš o celej záležitosti?“ spýtal sa Kráľ Alice.
+
+„Nič,“ odpovedala.
+
+100
+
+Alicina výpoveď
+
+„Vôbec nič?“ nástojil Kráľ.
+„Vôbec nič,“ opakovala Alica.
+„To je veľmi dôležité,“ povedal Kráľ a obrátil. sa
+
+k porotcom.
+Už-už si to zapisovali na tabuľky, keď vtom sa ozval Biely
+
+králik: „Vaša výsosť chcela azda povedať — nedôležité.“
+Povedal to úctivo, no mračil sa pritom a strúhal na Kráľa
+grimasy.
+
+„Pravdaže som chcel povedať nedôležité,“ rýchlo sa
+opravil Kráľ a ticho si mrmlal: „Dôležité — nedôležité
+- nedôležité — dôležité —“ akoby skúšal, čo znie lepšie.
+
+Niektorí z porotcov si zapísali ,dôležité“, iní ,nedôležité'.
+Alica to videla, lebo stála celkom blízko. „Ale veď na tom
+
+nezáleží,“ povedala si.
+
+Vtom Kráľ, ktorý si už chvíľu usilovne čosi značil do
+zápism'ka, zvolal: „Ticho!“ a prečítal odtiaľ: „Paragraf
+štyridsiaty dmhý. Všetky osoby, ktoré merajú vyše kilomet-
+ra, nech opustia súdnu sieň.“
+
+Všetky oči sa upreli na Alicu.
+
+„Ja nemeriam kilometer,“ povedala Alica.
+
+„A vem meriaš,“ povedal Kráľ.
+
+„Meriaš takmer dva kilometre,“ povedala Kráľovná.
+
+„A keby aj, nepôjdem,“ povedala Alica, „nijaký taký
+paragraf nejestvuje, vy ste si ho práve vymysleli.“
+
+„Je to najstarší paragraf z celého zákonníka,“ povedal
+Kráľ.
+
+„Tak by to mal byť paragraf prvý,“ povedala Alica.
+
+Kráľ zbledol a chytro zavrel zápisník. „Poraďte sa o roz-
+sudku,“ povedal porote tichým, roztraseným hlasom.
+
+„Máme tu ďalší dôkaz,“ Biely králik vyskočil zo stoličky
+ani strela. „Ak dovolíte, vaša výsosť, na zemi sa práve našiel
+tento papier.“
+
+„Čo je na ňom?“ spýtala sa Kráľovná.
+
+„Ešte som si ho neprezrel,“ povedal Biely králik, „ale
+podľa všetkého je to list nejakého väzňa - no, niekomu.“
+
+101
+
+Alica v krajine zázrakov
+
+„Ako ináč!“ povedal Kráľ. „Iba že by bol písaný — ni-
+komu, a to sa, ako viete, nerobieva.“
+
+„Aká je adresa?“ spýtal sa ktorýsi porotca.
+
+„Nijaká,“ povedal Biely králik, „navrchu nie je nič
+napísané.“ Medzitým papier rozložil a dodal: „Ani to
+vlastne nie je list, je to báseň.“
+
+„Je napísaná väzňovým rukopisom?“ spýtal sa iný po-
+rotca.
+
+„Nie, nie je,“ povedal Biely králik, „a to je na tom
+najčudnejšie.“
+
+(Porota bola z toho už celkom zmätená.)
+
+„Tak teda napodobnil cudzí rukopis,“ povedal Kráľ.
+
+(Tváre porotcov sa opäť vyjasnili.)
+
+„Prosím, vaša výsosť,“ ozval sa Dolník, „ja som to nepísal
+a nikto mi to nedokáže. Na konci nie je nijaký podpis.“
+
+„Ak si to nepodpísal,“ povedal Kráľ, „tým horšie. Iste si
+mal za lubom niečo nečestné, inak by si sa bol podpísal ako
+každý poriadny človek.“
+
+Ozval sa všeobecný potlesk; bola to prvá múdra myšlien-
+ka, ktorú Kráľ v ten deň vyslovil.
+
+„To je dôkaz, že je vinný,“ povedala Kráľovná, „a tak
+mu hneď zot —“
+
+„To nie je nijaký dôkaz,“ povedala Alica, „veď ani
+neviete, čo v tých veršoch je.“
+
+„Prečítaj ich!“ povedal Kráľ.
+
+Biely králik si založil okuliare: „Kde začať, vaša vý-
+sosť?“
+
+„Začni od začiatku,“ povedal Kráľ vážne, „čítaj, a keď
+prídeš na koniec, tak prestaň.“
+
+V sieni ostalo ticho a Biely králik čítal:
+
+„Rieklí mi, že si u nej bol
+
+a spomenul ma sám;
+
+vraj z dobrého som plota kôl,
+len žiaľ, že neplávam.
+
+102
+
+Alica v krajine zázrakov
+
+Dostal som odkaz: Zúrila.
+Pravdivo to tam stálo.
+
+Ak by to príliš súrila,
+
+čo by sa s Tebou stalo?
+
+Dal som jej jeden, dostal päť,
+Ty si vzal tri (lesť umnál);
+tak vrátili sa Tebe späť
+všetky, čo boli u mňa.
+
+ 
+
+Ak sme sa ja či ona (píš!)
+zaplietli do tej siete,
+verí,- že všetkých zachrániš
+ako nás vtedy v lete.
+
+Dodnes si myslím, že si bol
+(než dostala ten záchvat)
+prekážkou medzi ním a mnou
+a tým — nuž pánbohzaplať!
+
+Len nezrad, ak máš v tele česť,
+ako ich ona ľúbi,
+
+tá tajnosť nech už ododnes
+
+len mňa a Teba snúbi.
+
+„To je najzávažnejší dôkaz, aký sme si kedy vypočuli,“
+povedal Kráľ a mädlil si ruky. „Nuž a teraz nech poro-
+ta -“
+
+„Ak niekto z poroty objasní zmysel týchto veršov,“
+povedala Alica (v poslednej chvíli tak vyrástla, že sa už ani
+trocha nebála skočiť Kráľovi do reči), „dám mu dvojkom—
+náčku. Ja vravím, že nemajú ani byľku zmyslu.“
+
+Celá porota si zapisovala na tabuľky: „Ona vraví, že
+nemajú ani byľku zmyslu, ale nik sa neprihlásil, že verše
+vysvet '.“
+
+„Ak nemajú nijaký zmysel,“ povedal Kráľ, „ušetrí nám to
+
+104
+
+Alicina výpoveď
+
+veľa práce, lebo ho nemusíme hľadať. A jednako, neviem,
+neviem,“ rozložil si verše na kolene a jedným okom do nich
+pozeral, „istý zmysel v nich vari predsa len vidím — ,len žiaľ,
+že neplávam“ — a ty nevieš plávať, či vieš?“ obrátil sa
+k Dolníkovi.
+
+Dolm'k smutne potriasol hlavou: „Vari na to vyzerám?“
+spýtal sa. (Naozaj na to nevyzeral, lebo bol z lepenky.)
+
+„No prosím, zatiaľ to súhlasí,“ povedal Kráľ a dalej si
+mrmlal verše: „ ,Dostal som odkaz“ — to nech si porota
+poznačí — ,zúrila' - toto bude istotne o Kráľovnej — ,Ak by
+to príliš súrila, čo by sa s Tebou stalo?“ - to by som aj ja rád
+vedel — ,Dal som jej jeden, dostal päť, Ty si vzal tri“ - no
+prosím, tu hovorí, čo robil s tými koláčmi, to je úplne
+jasné.“
+
+„Ale dalej tam stojí: ,tak vrátili sa Tebe späť všetky, čo
+boli u mňa',“ povedala Alica.
+
+„No a tu sú,“ povedal Král víťazoslávne a ukázal prstom
+na misu. „J asné ako facka. Poďme dalej — ,než dostala ten
+záchvat“ - čo sa pamätám, drahá, vy ste nikdy nemali
+záchvat,“ povedal Kráľovnej.
+
+„Nikdy!“ napajedila sa Kráľovná a za reči šmarila do Vila
+kalamár. (Chudáčik Vilo už prestal písať na tabuľku prstom,
+lebo zistil, že po takom písaní na tabuľke nič nevidieť; teraz
+sa však znova chytro dal do písania; písal atramentom, čo mu
+
+ 
+
+Alica v krajine zázrakov
+
+stekal po tvári, a chcel využiť každú chvíľku, pokým úplne
+nestečie.)
+
+„Nuž v tomto prípade slová na vás neplatia,“ povedal
+Kráľ a s úsmevom sa rozhliadol po sieni. Bolo v nej ticho ani
+v hrobe.
+
+„To je iba taká slovná hra!“ vysvetlil Kráľ nahnevane
+a všetko sa rozosmialo. „Nech sa porota poradí 0 rozsudku,“
+povedal v ten deň hádam už dvadsiaty raz.
+
+„Kdeže! Kdeže!“ povedala Kráľovná. „Najprv trest
+— potom rozsudok.“
+
+„Čo je to za sprostosť!“ povedala Alica nahlas. „Kto to
+kedy počul — najprv trest.“
+
+„Ty čuš!“ povedala Kráľovná.
+
+„A nebudem!“ povedala Alica.
+
+„Zotnite jej hlavu!“ zjačala Kráľovná.
+
+Nik sa ani len nepohol.
+
+„Kto by sa vás bál?!“ povedala Alica (vtedy už mala zasa
+
+normálnu výšku). „Veď ste len obyčajné karty!“
+[Vi/tom všetky karty vzlietli do vzduchu a vzápätí sa zniesli
+na ňu; Alica chabo vykríkla, sčasti od strachu, sčasti od
+hnevu, a pokúsila sa striasť ich zo seba; tu zistila, že leží na
+brehu rieky, s hlavou na sestrinom lone a sestra jej z tváre
+zhadzuje suché lístie, čo jej tam napadalo zo stromu.
+
+„Prebuď sa, Alica moja!“ vravela jej sestra. „Ale si si
+
+„Ach, taký čudný sen sa mi prisnil,“ povedala Alica
+a rozpovedala sestre, nakoľko si pamätala, všetky tie čudes-
+né príhody, o ktorých ste práve čítali; keď dorozprávala,
+sestra ju pobozkala a povedala: „Bol to, milá moja, čudný
+sen, ale teraz sa bež naolovrantovať, lebo sa už stmieva.“
+
+Alica vstala, rozbehla sa a celou cestou rozmýšľala, aký to
+bol nádherný sen.
+
+Sestra tam zostala sedieť, jednou rukou si podopierala
+hlavu, pozorovala zapadajúce slnko a rozmýšľala o prího-
+dách malej Alice. Napokon začala aj ona snívať a mala
+takýto sen:
+
+106
+
+Alicina výpoveď
+
+Najprv sa jej snívalo s Alicou, ako jej rúčkami objíma
+kolená a jasnými zvedavými očkami dychtivo hľadí do jej
+očí, počula zvuk jej hlasu a videla ju pred sebou, ako
+známym pohybom pohadzuje hlavou a striasa dozadu
+neposedné vlásky, ktoré jej jednostaj padali do tváre.
+Načúvala teda, alebo aspoň sa jej zdalo, že načúva, a všetko
+okolo nej ožilo stvoreniami zo sna jej sestričky.
+
+Pri nohách jej zašušťala tráva, keď tade prebehol Biely
+králik — v mláke obďaleč zašpliechala vyľakaná Myš
+— počula cvengot čajových šálok pri nekonečnom olovrante
+Aprílového zajaca a jeho druhov — a prenikavý Kráľovnin
+hlas, keď vydávala rozkazy na popravy chudákov hostí
+— kýchanie prasacieho bábätka vo Vojvodkyninom náručí
+— Grifónove škreky, škrípanie Vilovho grifľ a na bridlicovej
+tabuľke i pridusený piskot „eliminovaných“ morčiat — všet—
+ko to napĺňalo vzduch a miešalo sa so vzdialenými vzlykmi
+nešťastnej Falošnej korytnačky.
+
+A tak tam sedela so zavretými očami a chcela veriť, že aj
+ona sa ocitla v krajine zázrakov, hoci vedela, že len čo otvorí
+oči, všetko sa znova zmení na všednú skutočnosť — tráva
+bude šušťať len od vetra a mláku rozčerí len rozhojdané
+tŕstie - cvengot čajových šálok sa zmení na zvonce pasúcich
+sa oviec a Kráľovnine prenikaVé výkriky na pastierikov hlas
+— kýchanie prasiatka, Grifónove škreky a všetko ostatné sa
+ukáže (dobre to vedela) len ako každodenná mätež zvukov
+na neďalekom gazdovstve a namiesto srdcervúcich vzlykov
+Falošnej korytnačky doletí k nej z diaľky iba ťahavé bučanie
+dobytka.
+
+Napokon si predstavila, ako jej sestrička bude po rokoch
+dospelou ženou a ako si aj v zrelom veku uchová čisté
+a vrúcne srdce; ako bude priťahovať malé deti a rozsvecovať
+im oči čudesnými rozprávkami — možno aj svojím dávnym
+snom o krajine zázrakov; ako sa bude vžívať do ich malých
+zánnutkov a nachádzať potešenie vo všetkých ich drobných
+radostiach, lebo stále bude mať pred očami šťastné dni
+svojho vlastného detstva.
