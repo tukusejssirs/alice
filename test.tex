@@ -1,0 +1,139 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}%
+\usepackage[T1]{fontenc}%
+\usepackage[fulloldstylenums,largesmallcaps]{kpfonts}%
+
+\usepackage{eledmac, eledpar,lipsum}
+
+\numberlinefalse% turn off lineation commands (from eledmac)
+
+\usepackage[spanish,english]{babel}
+
+% It seems easier to have 'parallel' Spanish and English sectioning macros
+% so that you don't have to worry about one counter for both languages
+\newcommand{\SpanSectionnumber}{%
+  \sbox\Sectionbox{\smash{\raisebox{-\baselineskip}{%
+    \fontsize{2.2\baselineskip}{0}\selectfont\theSpansection}}\enspace}}
+\newcommand{\EngSectionnumber}{%
+  \sbox\Sectionbox{\smash{\raisebox{-\baselineskip}{%
+    \fontsize{2.2\baselineskip}{0}\selectfont\theEngsection}}\enspace}}
+
+\newcounter{Spansection}
+\newcounter{Spansubsection}[Spansection]
+    \setcounter{Spansection}{0}
+\newcounter{Engsection}
+\newcounter{Engsubsection}[Engsection]
+  \setcounter{Engsection}{0}
+\newlength{\Sectionwidth}
+\newif\ifFirstSubsection
+\newsavebox{\Sectionbox}
+
+\makeatletter
+\newcommand{\Spansection}{%
+  \par\vskip\z@ \@plus 2\p@
+  \FirstSubsectiontrue\clubpenalty\@M
+  \refstepcounter{Spansection}\stepcounter{Spansubsection}%
+  \SpanSectionnumber\setlength{\Sectionwidth}{\wd\Sectionbox}%
+  \hangindent\Sectionwidth\hangafter-2
+  \leavevmode\llap{\box\Sectionbox}\ignorespaces}
+\newcommand{\Spansubsection}{%
+  \par\clubpenalty\@clubpenalty
+  \ifFirstSubsection
+    \ifnum\prevgraf=\@ne\nobreak\hspace*{\Sectionwidth}\fi
+    \FirstSubsectionfalse
+  \fi
+  \refstepcounter{Spansubsection}\textbf{\theSpansubsection}\enspace\ignorespaces}
+
+\newcommand{\Engsection}{%
+  \par\vskip\z@ \@plus 2\p@
+  \FirstSubsectiontrue\clubpenalty\@M
+  \refstepcounter{Engsection}\stepcounter{Engsubsection}%
+  \EngSectionnumber\setlength{\Sectionwidth}{\wd\Sectionbox}%
+  \hangindent\Sectionwidth\hangafter-2
+  \leavevmode\llap{\box\Sectionbox}\ignorespaces}
+\newcommand{\Engsubsection}{%
+  \par\clubpenalty\@clubpenalty
+  \ifFirstSubsection
+    \ifnum\prevgraf=\@ne\nobreak\hspace*{\Sectionwidth}\fi
+    \FirstSubsectionfalse
+  \fi
+  \refstepcounter{Engsubsection}\textbf{\theEngsubsection}\enspace\ignorespaces}
+\makeatother
+
+\parindent=0pt
+\parskip=0pt
+
+%%% The following are defined only for convenience:
+\newcommand{\spanishchunk}{%
+\selectlanguage{spanish}
+\Spansection EN el principio crió Dios los cielos y la tierra.
+\Spansubsection Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas.
+\Spansubsection Y dijo Dios: Sea la luz: y fué la luz.
+\Spansubsection Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas.
+
+\Spansection Y FUERON acabados los cielos y la tierra, y todo su ornamento.
+\Spansubsection Y acabó Dios en el día séptimo su obra que hizo, y reposó el día séptimo de toda su obra que había hecho.
+\Spansubsection Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho.
+
+\Spansection EN el principio crió Dios los cielos y la tierra.
+\Spansubsection Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas.
+\Spansubsection Y dijo Dios: Sea la luz: y fué la luz.
+\Spansubsection Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas.
+
+\Spansection Y FUERON acabados los cielos y la tierra, y todo su ornamento.
+}   
+
+\newcommand{\englishchunk}{%
+\selectlanguage{english}
+\Engsection In the beginning God created the heaven and the earth.
+\Engsubsection And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+\Engsubsection And God said, Let there be light: and there was light.
+\Engsubsection And God saw the light, that it was good: and God divided the light from the darkness.
+
+\Engsection Thus the heavens and the earth were finished, and all the host of them.
+\Engsubsection And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
+\Engsubsection And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
+
+\Engsection In the beginning God created the heaven and the earth.
+\Engsubsection And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+\Engsubsection And God said, Let there be light: and there was light.
+\Engsubsection And God saw the light, that it was good: and God divided the light from the darkness.
+
+\Engsection Thus the heavens and the earth were finished, and all the host of them.
+}
+
+\begin{document}
+
+\begin{pages}
+
+  \begin{Leftside}
+  \beginnumbering\pstart
+  \spanishchunk\par\spanishchunk\par\spanishchunk
+  \pend\endnumbering
+  \end{Leftside}
+
+  \begin{Rightside}
+  \beginnumbering\pstart
+  \englishchunk\par\englishchunk\par\englishchunk
+  \pend\endnumbering
+  \end{Rightside}
+
+\Pages
+
+  \begin{Leftside}% it might be better to create new environments for these
+  \beginnumbering\pstart
+  \spanishchunk\par\spanishchunk\par\spanishchunk
+  \pend\endnumbering
+  \end{Leftside}
+
+  \begin{Rightside}% it might be better to create new environments for these
+  \beginnumbering\pstart
+  \englishchunk\par\englishchunk\par\englishchunk
+  \pend\endnumbering
+  \end{Rightside}
+
+\Pages
+\end{pages}
+
+\end{document}

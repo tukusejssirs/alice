@@ -1,0 +1,24 @@
+    \documentclass[11pt,a4paper,titlepage,twoside]{article}
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+    \usepackage[ngerman,english]{babel}
+    \usepackage{blindtext}
+    \usepackage{parallel}
+
+    \title{Two languages on facing pages}
+    \author{kernowsteve}
+
+    \begin{document}
+      \maketitle
+      \begin{Parallel}[p]{}{}
+        \ParallelLText{%
+    %      \selectlanguage{english}
+          \blinddocument
+        }
+        \ParallelRText{%
+          \setcounter{section}{0}
+          \selectlanguage{ngerman}
+          \blinddocument
+        }
+      \end{Parallel}
+    \end{document}
